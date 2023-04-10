@@ -1,6 +1,6 @@
-# European Refugee Crisis Visualization
+# The European Refugee Crisis Visualized
 
-[Project Website](https://emilelampe.github.io/european-refugee-crisis-visualization/)
+[Project Website](https://emilelampe.github.io/european-refugee-crisis-visualization/){:target="_blank"}
 
 By [Emile Lampe](https://emilelampe.github.io), [Quinten van Eijs,](https://github.com/quintene) [Lucas Veeger](https://github.com/LucasVeeger)
 
