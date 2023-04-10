@@ -1,6 +1,8 @@
 # European Refugee Crisis Visualization
 
-By [Emile Lampe](emilelampe.github.io), [Quinten van Eijs,](https://github.com/quintene) [Lucas Veeger](https://github.com/LucasVeeger)
+[Project Website](https://emilelampe.github.io/european-refugee-crisis-visualization/)
+
+By [Emile Lampe](https://emilelampe.github.io), [Quinten van Eijs,](https://github.com/quintene) [Lucas Veeger](https://github.com/LucasVeeger)
 
 This project is a visual representation of the European Refugee Crisis from 2009 to 2020. It is an interactive website created as part of the IN4089 Data Visualization course at TU Delft, awarded 9/10, by a team of three students. Our goal is to provide a more insightful understanding of the crisis, beyond the overwhelming numbers and statistics often seen in news reports. By doing so, we aim to emphasize the human aspect behind the crisis and make the scale of the crisis more comprehensible.
 

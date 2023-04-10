@@ -444,7 +444,7 @@
             .attr("color", "white")
             .call(d3.axisLeft(y));
 
-        d3.json("https://raw.githubusercontent.com/quintene/data_vis_data/main/country_info.json").then(countriesData => {
+        d3.json("data/country_info.json").then(countriesData => {
 
 
             // List of subgroups = header of the csv files = soil condition here
@@ -848,10 +848,10 @@
         let pathGenerator = d3.geoPath().projection(europeProjection)
 
         // data paths
-        let geoJsonUrl_worldmap = "https://raw.githubusercontent.com/quintene/data_vis_data/main/map_geo_data.json"
-        let geoJsonUrl_migrantroutes = "https://raw.githubusercontent.com/quintene/data_vis_data/main/migration_routes.geojson"
-        let path_IBCs_data = "https://raw.githubusercontent.com/quintene/data_vis_data/main/monthly_detections_of_IBCs.json"
-        let path_route_mapping = "https://raw.githubusercontent.com/quintene/data_vis_data/main/route_mapping.json"
+        let geoJsonUrl_worldmap = "data/map_geo_data.json"
+        let geoJsonUrl_migrantroutes = "data/migration_routes.geojson"
+        let path_IBCs_data = "data/monthly_detections_of_IBCs.json"
+        let path_route_mapping = "data/route_mapping.json"
 
 
         // variables for animation
