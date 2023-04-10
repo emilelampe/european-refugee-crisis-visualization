@@ -1,0 +1,3636 @@
+{
+    "2009": {
+        "nodes": [
+            {
+                "id": 1,
+                "name": "Sweden"
+            },
+            {
+                "id": 2,
+                "name": "Greece"
+            },
+            {
+                "id": 3,
+                "name": "Hungary"
+            },
+            {
+                "id": 4,
+                "name": "Netherlands"
+            },
+            {
+                "id": 5,
+                "name": "Germany"
+            },
+            {
+                "id": 6,
+                "name": "Italy"
+            },
+            {
+                "id": 7,
+                "name": "France"
+            },
+            {
+                "id": 8,
+                "name": "Afghanistan"
+            },
+            {
+                "id": 9,
+                "name": "Eritrea"
+            },
+            {
+                "id": 10,
+                "name": "Iraq"
+            },
+            {
+                "id": 11,
+                "name": "Nigeria"
+            },
+            {
+                "id": 12,
+                "name": "Pakistan"
+            },
+            {
+                "id": 13,
+                "name": "Somalia"
+            },
+            {
+                "id": 14,
+                "name": "Syrian Arab Rep."
+            }
+        ],
+        "links": [
+            {
+                "source": 1,
+                "target": 8,
+                "size": 11.930809322066805
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "size": 6.426484908657132
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "size": 33.65599404443688
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "size": 2.6519273727426045
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "size": 1.1283578667980625
+            },
+            {
+                "source": 1,
+                "target": 13,
+                "size": 38.81665616571531
+            },
+            {
+                "source": 1,
+                "target": 14,
+                "size": 5.389770319583204
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "size": 18.771755342790435
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "size": 0.5842864247625492
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "size": 11.014420687348409
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "size": 9.696668325170862
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "size": 46.19592242605077
+            },
+            {
+                "source": 2,
+                "target": 13,
+                "size": 1.7404276476119247
+            },
+            {
+                "source": 2,
+                "target": 14,
+                "size": 11.996519146265062
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "size": 82.23140496341256
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "size": 3.9256198336325614
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "size": 4.5454545443877725
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "size": 2.8236914591100226
+            },
+            {
+                "source": 3,
+                "target": 13,
+                "size": 5.165289255142984
+            },
+            {
+                "source": 3,
+                "target": 14,
+                "size": 1.3085399443140988
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "size": 12.900302113924154
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "size": 4.783484389687798
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "size": 20.050352471397066
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "size": 1.5206445113795442
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "size": 0.42296072495663645
+            },
+            {
+                "source": 4,
+                "target": 13,
+                "size": 59.30513594996158
+            },
+            {
+                "source": 4,
+                "target": 14,
+                "size": 1.017119838693213
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "size": 24.86925794776285
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "size": 2.671378092080347
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "size": 51.72438162727231
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "size": 5.936395761464804
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "size": 3.9434628972816403
+            },
+            {
+                "source": 5,
+                "target": 13,
+                "size": 2.5512367492061094
+            },
+            {
+                "source": 5,
+                "target": 14,
+                "size": 8.303886924931945
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "size": 7.817482131560014
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "size": 9.785596480635263
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "size": 4.584936778560359
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "size": 43.88125343652834
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "size": 14.975261131711243
+            },
+            {
+                "source": 6,
+                "target": 13,
+                "size": 17.63606377363889
+            },
+            {
+                "source": 6,
+                "target": 14,
+                "size": 1.319406267365873
+            },
+            {
+                "source": 7,
+                "target": 8,
+                "size": 20.28368793816422
+            },
+            {
+                "source": 7,
+                "target": 9,
+                "size": 12.085106382624089
+            },
+            {
+                "source": 7,
+                "target": 10,
+                "size": 17.106382978518745
+            },
+            {
+                "source": 7,
+                "target": 11,
+                "size": 21.84397162853941
+            },
+            {
+                "source": 7,
+                "target": 12,
+                "size": 18.893617030365853
+            },
+            {
+                "source": 7,
+                "target": 13,
+                "size": 7.914893617008779
+            },
+            {
+                "source": 7,
+                "target": 14,
+                "size": 1.8723404247789037
+            }
+        ]
+    },
+    "2010": {
+        "nodes": [
+            {
+                "id": 1,
+                "name": "Sweden"
+            },
+            {
+                "id": 2,
+                "name": "Netherlands"
+            },
+            {
+                "id": 3,
+                "name": "Germany"
+            },
+            {
+                "id": 4,
+                "name": "Hungary"
+            },
+            {
+                "id": 5,
+                "name": "Greece"
+            },
+            {
+                "id": 6,
+                "name": "Italy"
+            },
+            {
+                "id": 7,
+                "name": "France"
+            },
+            {
+                "id": 8,
+                "name": "Afghanistan"
+            },
+            {
+                "id": 9,
+                "name": "Eritrea"
+            },
+            {
+                "id": 10,
+                "name": "Iraq"
+            },
+            {
+                "id": 11,
+                "name": "Nigeria"
+            },
+            {
+                "id": 12,
+                "name": "Pakistan"
+            },
+            {
+                "id": 13,
+                "name": "Somalia"
+            },
+            {
+                "id": 14,
+                "name": "Syrian Arab Rep."
+            }
+        ],
+        "links": [
+            {
+                "source": 1,
+                "target": 8,
+                "size": 19.332768621119804
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "size": 10.425490321737461
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "size": 19.352316413353403
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "size": 3.394800286989658
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "size": 1.2510588392195676
+            },
+            {
+                "source": 1,
+                "target": 13,
+                "size": 41.34358506544689
+            },
+            {
+                "source": 1,
+                "target": 14,
+                "size": 4.8999804521332155
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "size": 19.884509163942056
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "size": 5.146874215580211
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "size": 23.901581728192323
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "size": 2.2972633696627445
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "size": 0.815967863303199
+            },
+            {
+                "source": 2,
+                "target": 13,
+                "size": 46.0833542492824
+            },
+            {
+                "source": 2,
+                "target": 14,
+                "size": 1.8704494100370583
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "size": 32.467602015953645
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "size": 3.545035878795731
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "size": 31.84641747960186
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "size": 4.150155296521865
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "size": 4.98018635354906
+            },
+            {
+                "source": 3,
+                "target": 13,
+                "size": 12.10774338589008
+            },
+            {
+                "source": 3,
+                "target": 14,
+                "size": 10.90285958968775
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "size": 77.8270509977827
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "size": 5.3215077605321515
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "size": 4.101995565410199
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "size": 4.545454545454545
+            },
+            {
+                "source": 4,
+                "target": 13,
+                "size": 5.65410199556541
+            },
+            {
+                "source": 4,
+                "target": 14,
+                "size": 2.549889135254989
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "size": 13.0833970925794
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "size": 1.2241775057682796
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "size": 9.353481253495085
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "size": 8.856159143318987
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "size": 58.7796480491021
+            },
+            {
+                "source": 5,
+                "target": 13,
+                "size": 2.9648048969155063
+            },
+            {
+                "source": 5,
+                "target": 14,
+                "size": 5.738332058820627
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "size": 22.50000000007639
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "size": 4.664948454166591
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "size": 9.793814434296955
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "size": 35.69587628634845
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "size": 23.943298970080967
+            },
+            {
+                "source": 6,
+                "target": 13,
+                "size": 2.164948453479096
+            },
+            {
+                "source": 6,
+                "target": 14,
+                "size": 1.2371134015515495
+            },
+            {
+                "source": 7,
+                "target": 8,
+                "size": 15.196172243257797
+            },
+            {
+                "source": 7,
+                "target": 9,
+                "size": 13.952153110865078
+            },
+            {
+                "source": 7,
+                "target": 10,
+                "size": 8.612440192137859
+            },
+            {
+                "source": 7,
+                "target": 11,
+                "size": 24.937799047425138
+            },
+            {
+                "source": 7,
+                "target": 12,
+                "size": 25.49282296554203
+            },
+            {
+                "source": 7,
+                "target": 13,
+                "size": 8.038277511915275
+            },
+            {
+                "source": 7,
+                "target": 14,
+                "size": 3.7703349288568204
+            }
+        ]
+    },
+    "2011": {
+        "nodes": [
+            {
+                "id": 1,
+                "name": "Sweden"
+            },
+            {
+                "id": 2,
+                "name": "Netherlands"
+            },
+            {
+                "id": 3,
+                "name": "Germany"
+            },
+            {
+                "id": 4,
+                "name": "Hungary"
+            },
+            {
+                "id": 5,
+                "name": "Greece"
+            },
+            {
+                "id": 6,
+                "name": "Italy"
+            },
+            {
+                "id": 7,
+                "name": "France"
+            },
+            {
+                "id": 8,
+                "name": "Afghanistan"
+            },
+            {
+                "id": 9,
+                "name": "Eritrea"
+            },
+            {
+                "id": 10,
+                "name": "Iraq"
+            },
+            {
+                "id": 11,
+                "name": "Nigeria"
+            },
+            {
+                "id": 12,
+                "name": "Pakistan"
+            },
+            {
+                "id": 13,
+                "name": "Somalia"
+            },
+            {
+                "id": 14,
+                "name": "Syrian Arab Rep."
+            }
+        ],
+        "links": [
+            {
+                "source": 1,
+                "target": 8,
+                "size": 32.7225130903556
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "size": 11.607712937274824
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "size": 15.891967818949317
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "size": 3.6202273017952593
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "size": 1.9282339422337615
+            },
+            {
+                "source": 1,
+                "target": 13,
+                "size": 27.908313112701627
+            },
+            {
+                "source": 1,
+                "target": 14,
+                "size": 6.321031796689607
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "size": 32.49151391732808
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "size": 6.788866257668253
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "size": 27.250509170098113
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "size": 2.03665987752713
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "size": 1.7786829598762617
+            },
+            {
+                "source": 2,
+                "target": 13,
+                "size": 26.9653767790213
+            },
+            {
+                "source": 2,
+                "target": 14,
+                "size": 2.68839103848087
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "size": 35.03193129214152
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "size": 2.858401233240093
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "size": 27.341995154410995
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "size": 3.563091830014198
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "size": 11.627394846419172
+            },
+            {
+                "source": 3,
+                "target": 13,
+                "size": 4.44395507686572
+            },
+            {
+                "source": 3,
+                "target": 14,
+                "size": 15.133230566908313
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "size": 64.70588235241483
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "size": 0.49850448637088085
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "size": 5.383848454396217
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "size": 2.193419740827228
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "size": 12.063808576538134
+            },
+            {
+                "source": 4,
+                "target": 13,
+                "size": 6.081754735116613
+            },
+            {
+                "source": 4,
+                "target": 14,
+                "size": 9.072781654336088
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "size": 15.83789159550396
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "size": 0.919940328104312
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "size": 6.389855794023171
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "size": 9.000497264140776
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "size": 57.40924913085476
+            },
+            {
+                "source": 5,
+                "target": 13,
+                "size": 1.6907011436699182
+            },
+            {
+                "source": 5,
+                "target": 14,
+                "size": 8.751864743703107
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "size": 9.823331271247243
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "size": 3.6502371615343696
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "size": 2.4266171717022362
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "size": 53.33058363159185
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "size": 17.591255924721743
+            },
+            {
+                "source": 6,
+                "target": 13,
+                "size": 9.458994981468013
+            },
+            {
+                "source": 6,
+                "target": 14,
+                "size": 3.7189798577345337
+            },
+            {
+                "source": 7,
+                "target": 8,
+                "size": 13.220733836252995
+            },
+            {
+                "source": 7,
+                "target": 9,
+                "size": 18.09357406444468
+            },
+            {
+                "source": 7,
+                "target": 10,
+                "size": 5.14463211036171
+            },
+            {
+                "source": 7,
+                "target": 11,
+                "size": 17.7441273491928
+            },
+            {
+                "source": 7,
+                "target": 12,
+                "size": 28.59638905362651
+            },
+            {
+                "source": 7,
+                "target": 13,
+                "size": 14.890312562939442
+            },
+            {
+                "source": 7,
+                "target": 14,
+                "size": 2.310231023181856
+            }
+        ]
+    },
+    "2012": {
+        "nodes": [
+            {
+                "id": 1,
+                "name": "Sweden"
+            },
+            {
+                "id": 2,
+                "name": "Germany"
+            },
+            {
+                "id": 3,
+                "name": "Netherlands"
+            },
+            {
+                "id": 4,
+                "name": "Hungary"
+            },
+            {
+                "id": 5,
+                "name": "Greece"
+            },
+            {
+                "id": 6,
+                "name": "Italy"
+            },
+            {
+                "id": 7,
+                "name": "France"
+            },
+            {
+                "id": 8,
+                "name": "Afghanistan"
+            },
+            {
+                "id": 9,
+                "name": "Eritrea"
+            },
+            {
+                "id": 10,
+                "name": "Iraq"
+            },
+            {
+                "id": 11,
+                "name": "Nigeria"
+            },
+            {
+                "id": 12,
+                "name": "Pakistan"
+            },
+            {
+                "id": 13,
+                "name": "Somalia"
+            },
+            {
+                "id": 14,
+                "name": "Syrian Arab Rep."
+            }
+        ],
+        "links": [
+            {
+                "source": 1,
+                "target": 8,
+                "size": 20.97023153304266
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "size": 10.390297685997878
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "size": 5.830209481688149
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "size": 2.2094818080808927
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "size": 1.248070562500675
+            },
+            {
+                "source": 1,
+                "target": 13,
+                "size": 24.890848952161164
+            },
+            {
+                "source": 1,
+                "target": 14,
+                "size": 34.46085997652859
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "size": 28.067034303885784
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "size": 2.395616987709869
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "size": 20.31798324131416
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "size": 3.4627229114275084
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "size": 12.722910550272147
+            },
+            {
+                "source": 2,
+                "target": 13,
+                "size": 4.637255602738135
+            },
+            {
+                "source": 2,
+                "target": 14,
+                "size": 28.396476402652397
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "size": 25.713832485015413
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "size": 7.6300761409035776
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "size": 29.885786806479963
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "size": 2.3318527917547254
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "size": 2.6967005076884165
+            },
+            {
+                "source": 3,
+                "target": 13,
+                "size": 22.620558375131285
+            },
+            {
+                "source": 3,
+                "target": 14,
+                "size": 9.121192893026628
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "size": 59.41931127820459
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "size": 0.33760972342280776
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "size": 1.890614449426134
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "size": 1.823092504875541
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "size": 22.079675894167796
+            },
+            {
+                "source": 4,
+                "target": 13,
+                "size": 4.659014180019505
+            },
+            {
+                "source": 4,
+                "target": 14,
+                "size": 9.790681969883636
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "size": 14.68074409083004
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "size": 3.469079940231855
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "size": 7.918552034528155
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "size": 6.71191553550944
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "size": 58.79839115422666
+            },
+            {
+                "source": 5,
+                "target": 13,
+                "size": 1.5082956259946136
+            },
+            {
+                "source": 5,
+                "target": 14,
+                "size": 6.913021618679225
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "size": 18.671162730786893
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "size": 9.166978892474154
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "size": 5.033096041184255
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "size": 20.14487323867787
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "size": 32.48407643176644
+            },
+            {
+                "source": 6,
+                "target": 13,
+                "size": 10.078681154822172
+            },
+            {
+                "source": 6,
+                "target": 14,
+                "size": 4.4211315102882125
+            },
+            {
+                "source": 7,
+                "target": 8,
+                "size": 10.403471732307477
+            },
+            {
+                "source": 7,
+                "target": 9,
+                "size": 10.767065447505196
+            },
+            {
+                "source": 7,
+                "target": 10,
+                "size": 2.568613652635245
+            },
+            {
+                "source": 7,
+                "target": 11,
+                "size": 19.446399250437917
+            },
+            {
+                "source": 7,
+                "target": 12,
+                "size": 37.719915556823096
+            },
+            {
+                "source": 7,
+                "target": 13,
+                "size": 11.247947451717401
+            },
+            {
+                "source": 7,
+                "target": 14,
+                "size": 7.84658690857368
+            }
+        ]
+    },
+    "2013": {
+        "nodes": [
+            {
+                "id": 1,
+                "name": "Sweden"
+            },
+            {
+                "id": 2,
+                "name": "Hungary"
+            },
+            {
+                "id": 3,
+                "name": "Greece"
+            },
+            {
+                "id": 4,
+                "name": "Germany"
+            },
+            {
+                "id": 5,
+                "name": "Netherlands"
+            },
+            {
+                "id": 6,
+                "name": "Italy"
+            },
+            {
+                "id": 7,
+                "name": "France"
+            },
+            {
+                "id": 8,
+                "name": "Afghanistan"
+            },
+            {
+                "id": 9,
+                "name": "Eritrea"
+            },
+            {
+                "id": 10,
+                "name": "Iraq"
+            },
+            {
+                "id": 11,
+                "name": "Nigeria"
+            },
+            {
+                "id": 12,
+                "name": "Pakistan"
+            },
+            {
+                "id": 13,
+                "name": "Somalia"
+            },
+            {
+                "id": 14,
+                "name": "Syrian Arab Rep."
+            }
+        ],
+        "links": [
+            {
+                "source": 1,
+                "target": 8,
+                "size": 11.317165955456755
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "size": 14.047159522084591
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "size": 5.935498309140956
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "size": 2.4810494814716186
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "size": 1.2475175520984987
+            },
+            {
+                "source": 1,
+                "target": 13,
+                "size": 13.98282565599035
+            },
+            {
+                "source": 1,
+                "target": 14,
+                "size": 50.98878352375723
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "size": 32.382807069326475
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "size": 1.3492836277739242
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "size": 0.8485185700433958
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "size": 6.329113924782252
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "size": 42.85714285262125
+            },
+            {
+                "source": 2,
+                "target": 13,
+                "size": 2.64292669357779
+            },
+            {
+                "source": 2,
+                "target": 14,
+                "size": 13.59020726187492
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "size": 23.867541399775103
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "size": 2.842861606020023
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "size": 3.701968134935354
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "size": 7.294595438606431
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "size": 51.78069352721112
+            },
+            {
+                "source": 3,
+                "target": 13,
+                "size": 2.343017806444133
+            },
+            {
+                "source": 3,
+                "target": 14,
+                "size": 8.169322087007851
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "size": 21.10709802673227
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "size": 9.3188862433413
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "size": 10.748226134257274
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "size": 5.069289684574502
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "size": 10.881426266994449
+            },
+            {
+                "source": 4,
+                "target": 13,
+                "size": 9.925971465727162
+            },
+            {
+                "source": 4,
+                "target": 14,
+                "size": 32.94910217837306
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "size": 13.610399843234125
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "size": 10.232420722450085
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "size": 13.96493992667813
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "size": 1.6249753792245187
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "size": 1.7136103991752933
+            },
+            {
+                "source": 5,
+                "target": 13,
+                "size": 32.20405750916135
+            },
+            {
+                "source": 5,
+                "target": 14,
+                "size": 26.649596220076486
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "size": 13.80933171997442
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "size": 14.179104476463541
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "size": 3.7111738603459132
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "size": 23.658733360717598
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "size": 21.729191878436897
+            },
+            {
+                "source": 6,
+                "target": 13,
+                "size": 18.64999327677128
+            },
+            {
+                "source": 6,
+                "target": 14,
+                "size": 4.262471427290345
+            },
+            {
+                "source": 7,
+                "target": 8,
+                "size": 9.262216541364825
+            },
+            {
+                "source": 7,
+                "target": 9,
+                "size": 7.186202490201395
+            },
+            {
+                "source": 7,
+                "target": 10,
+                "size": 1.4053018203841214
+            },
+            {
+                "source": 7,
+                "target": 11,
+                "size": 22.378366871507904
+            },
+            {
+                "source": 7,
+                "target": 12,
+                "size": 36.32492281649525
+            },
+            {
+                "source": 7,
+                "target": 13,
+                "size": 8.60215053928145
+            },
+            {
+                "source": 7,
+                "target": 14,
+                "size": 14.84083892076504
+            }
+        ]
+    },
+    "2014": {
+        "nodes": [
+            {
+                "id": 1,
+                "name": "Hungary"
+            },
+            {
+                "id": 2,
+                "name": "Sweden"
+            },
+            {
+                "id": 3,
+                "name": "Greece"
+            },
+            {
+                "id": 4,
+                "name": "Germany"
+            },
+            {
+                "id": 5,
+                "name": "Netherlands"
+            },
+            {
+                "id": 6,
+                "name": "Italy"
+            },
+            {
+                "id": 7,
+                "name": "France"
+            },
+            {
+                "id": 8,
+                "name": "Afghanistan"
+            },
+            {
+                "id": 9,
+                "name": "Eritrea"
+            },
+            {
+                "id": 10,
+                "name": "Iraq"
+            },
+            {
+                "id": 11,
+                "name": "Nigeria"
+            },
+            {
+                "id": 12,
+                "name": "Pakistan"
+            },
+            {
+                "id": 13,
+                "name": "Somalia"
+            },
+            {
+                "id": 14,
+                "name": "Syrian Arab Rep."
+            }
+        ],
+        "links": [
+            {
+                "source": 1,
+                "target": 8,
+                "size": 51.378504672721206
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "size": 0.6892523365046809
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "size": 2.9030373832428427
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "size": 1.5011682241623596
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "size": 2.3422897198411743
+            },
+            {
+                "source": 1,
+                "target": 13,
+                "size": 1.1331775701270537
+            },
+            {
+                "source": 1,
+                "target": 14,
+                "size": 40.05257009340068
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "size": 7.150754984621809
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "size": 20.332745937056693
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "size": 5.792819874897479
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "size": 1.3372032756888554
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "size": 0.9484813931354595
+            },
+            {
+                "source": 2,
+                "target": 13,
+                "size": 9.973739676737637
+            },
+            {
+                "source": 2,
+                "target": 14,
+                "size": 54.46425485786207
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "size": 27.154549828217927
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "size": 4.212806933220159
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "size": 3.767453057947029
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "size": 7.79971112260061
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "size": 43.82522869646521
+            },
+            {
+                "source": 3,
+                "target": 13,
+                "size": 1.9980741452079174
+            },
+            {
+                "source": 3,
+                "target": 14,
+                "size": 11.242176216341154
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "size": 11.064340860782622
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "size": 15.159279381491555
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "size": 10.865313127779466
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "size": 4.562768086315974
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "size": 4.833857591871756
+            },
+            {
+                "source": 4,
+                "target": 13,
+                "size": 6.502716614184674
+            },
+            {
+                "source": 4,
+                "target": 14,
+                "size": 47.011724337573945
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "size": 5.496841973817841
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "size": 24.438746794558188
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "size": 8.267150272346372
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "size": 1.6634356830902335
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "size": 1.4445625668941502
+            },
+            {
+                "source": 5,
+                "target": 13,
+                "size": 3.7270964920350287
+            },
+            {
+                "source": 5,
+                "target": 14,
+                "size": 54.96216621725818
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "size": 13.570527599486905
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "size": 2.0921230047225943
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "size": 3.444826237850446
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "size": 44.07376800239004
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "size": 31.09477620600687
+            },
+            {
+                "source": 6,
+                "target": 13,
+                "size": 3.5100691586713197
+            },
+            {
+                "source": 6,
+                "target": 14,
+                "size": 2.213909790871836
+            },
+            {
+                "source": 7,
+                "target": 8,
+                "size": 6.40746500588508
+            },
+            {
+                "source": 7,
+                "target": 9,
+                "size": 8.06376360908029
+            },
+            {
+                "source": 7,
+                "target": 10,
+                "size": 7.247278380918428
+            },
+            {
+                "source": 7,
+                "target": 11,
+                "size": 16.485225506285264
+            },
+            {
+                "source": 7,
+                "target": 12,
+                "size": 27.643856920016677
+            },
+            {
+                "source": 7,
+                "target": 13,
+                "size": 8.514774495003843
+            },
+            {
+                "source": 7,
+                "target": 14,
+                "size": 25.6376360828104
+            }
+        ]
+    },
+    "2015": {
+        "nodes": [
+            {
+                "id": 1,
+                "name": "Hungary"
+            },
+            {
+                "id": 2,
+                "name": "Sweden"
+            },
+            {
+                "id": 3,
+                "name": "Germany"
+            },
+            {
+                "id": 4,
+                "name": "Greece"
+            },
+            {
+                "id": 5,
+                "name": "Netherlands"
+            },
+            {
+                "id": 6,
+                "name": "Italy"
+            },
+            {
+                "id": 7,
+                "name": "France"
+            },
+            {
+                "id": 8,
+                "name": "Afghanistan"
+            },
+            {
+                "id": 9,
+                "name": "Eritrea"
+            },
+            {
+                "id": 10,
+                "name": "Iraq"
+            },
+            {
+                "id": 11,
+                "name": "Nigeria"
+            },
+            {
+                "id": 12,
+                "name": "Pakistan"
+            },
+            {
+                "id": 13,
+                "name": "Somalia"
+            },
+            {
+                "id": 14,
+                "name": "Syrian Arab Rep."
+            }
+        ],
+        "links": [
+            {
+                "source": 1,
+                "target": 8,
+                "size": 33.70395753583482
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "size": 0.40027414036942177
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "size": 6.765289160149182
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "size": 0.7327422786967709
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "size": 11.050920122950911
+            },
+            {
+                "source": 1,
+                "target": 13,
+                "size": 0.2566420717907511
+            },
+            {
+                "source": 1,
+                "target": 14,
+                "size": 47.09017469020816
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "size": 32.302771040871455
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "size": 5.676765666935251
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "size": 16.44792726662428
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "size": 0.45150872786630775
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "size": 0.48824164133686954
+            },
+            {
+                "source": 2,
+                "target": 13,
+                "size": 4.812011662768841
+            },
+            {
+                "source": 2,
+                "target": 14,
+                "size": 39.820773993597
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "size": 12.464299250472964
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "size": 4.2938577146964985
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "size": 12.259960071911225
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "size": 2.0715226202230723
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "size": 3.3100602865601276
+            },
+            {
+                "source": 3,
+                "target": 13,
+                "size": 2.1066861499959115
+            },
+            {
+                "source": 3,
+                "target": 14,
+                "size": 63.493613906140205
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "size": 19.265868992916392
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "size": 1.662948692170299
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "size": 7.057392009309106
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "size": 6.215777732729442
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "size": 29.05090244953536
+            },
+            {
+                "source": 4,
+                "target": 13,
+                "size": 1.2776313125314172
+            },
+            {
+                "source": 4,
+                "target": 14,
+                "size": 35.469478810807985
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "size": 8.638853771783001
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "size": 22.337607612299866
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "size": 9.767623865060871
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "size": 0.854855216268909
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "size": 0.641141412329157
+            },
+            {
+                "source": 5,
+                "target": 13,
+                "size": 1.3786045393254842
+            },
+            {
+                "source": 5,
+                "target": 14,
+                "size": 56.38131358293271
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "size": 11.560324825831657
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "size": 2.0243619498356096
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "size": 1.4646171693927825
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "size": 51.56322505246757
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "size": 29.834686778716566
+            },
+            {
+                "source": 6,
+                "target": 13,
+                "size": 2.0852668222670077
+            },
+            {
+                "source": 6,
+                "target": 14,
+                "size": 1.4675174014888108
+            },
+            {
+                "source": 7,
+                "target": 8,
+                "size": 12.176546156880837
+            },
+            {
+                "source": 7,
+                "target": 9,
+                "size": 8.767663790386852
+            },
+            {
+                "source": 7,
+                "target": 10,
+                "size": 14.355845110389948
+            },
+            {
+                "source": 7,
+                "target": 11,
+                "size": 12.649109927662803
+            },
+            {
+                "source": 7,
+                "target": 12,
+                "size": 18.452927143841983
+            },
+            {
+                "source": 7,
+                "target": 13,
+                "size": 8.708019819169069
+            },
+            {
+                "source": 7,
+                "target": 14,
+                "size": 24.889888051668496
+            }
+        ]
+    },
+    "2016": {
+        "nodes": [
+            {
+                "id": 1,
+                "name": "Germany"
+            },
+            {
+                "id": 2,
+                "name": "Hungary"
+            },
+            {
+                "id": 3,
+                "name": "Sweden"
+            },
+            {
+                "id": 4,
+                "name": "Greece"
+            },
+            {
+                "id": 5,
+                "name": "France"
+            },
+            {
+                "id": 6,
+                "name": "Netherlands"
+            },
+            {
+                "id": 7,
+                "name": "Italy"
+            },
+            {
+                "id": 8,
+                "name": "Afghanistan"
+            },
+            {
+                "id": 9,
+                "name": "Eritrea"
+            },
+            {
+                "id": 10,
+                "name": "Iraq"
+            },
+            {
+                "id": 11,
+                "name": "Nigeria"
+            },
+            {
+                "id": 12,
+                "name": "Pakistan"
+            },
+            {
+                "id": 13,
+                "name": "Somalia"
+            },
+            {
+                "id": 14,
+                "name": "Syrian Arab Rep."
+            }
+        ],
+        "links": [
+            {
+                "source": 1,
+                "target": 8,
+                "size": 23.181481209224486
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "size": 3.462576512718175
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "size": 17.61141491903091
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "size": 2.341131667141872
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "size": 2.814578238288718
+            },
+            {
+                "source": 1,
+                "target": 13,
+                "size": 1.8546345009525265
+            },
+            {
+                "source": 1,
+                "target": 14,
+                "size": 48.73418295264331
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "size": 46.386300671806545
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "size": 0.23503735417123403
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "size": 14.488374048698564
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "size": 0.34835893566209686
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "size": 16.255351299753766
+            },
+            {
+                "source": 2,
+                "target": 13,
+                "size": 1.3892386469094669
+            },
+            {
+                "source": 2,
+                "target": 14,
+                "size": 20.897339042998322
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "size": 28.231366572541802
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "size": 5.758763336096347
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "size": 18.99267000436657
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "size": 2.4929240148756175
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "size": 2.0792510343292903
+            },
+            {
+                "source": 3,
+                "target": 13,
+                "size": 11.230858551523701
+            },
+            {
+                "source": 3,
+                "target": 14,
+                "size": 31.214166486266677
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "size": 10.18567993613886
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "size": 0.9818327543017187
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "size": 10.813518566770384
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "size": 1.1332264669945873
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "size": 14.596135006250043
+            },
+            {
+                "source": 4,
+                "target": 13,
+                "size": 0.3072401815496781
+            },
+            {
+                "source": 4,
+                "target": 14,
+                "size": 61.98236708799473
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "size": 25.65884408799207
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "size": 7.560568086000128
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "size": 10.765550238052432
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "size": 12.762968023893409
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "size": 12.436394014244033
+            },
+            {
+                "source": 5,
+                "target": 13,
+                "size": 5.646692488968728
+            },
+            {
+                "source": 5,
+                "target": 14,
+                "size": 25.168983060849193
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "size": 19.734062383183986
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "size": 24.269914258329305
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "size": 14.390456069680065
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "size": 3.4547036158105615
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "size": 2.348701379292163
+            },
+            {
+                "source": 6,
+                "target": 13,
+                "size": 3.280725735314309
+            },
+            {
+                "source": 6,
+                "target": 14,
+                "size": 32.5214365583896
+            },
+            {
+                "source": 7,
+                "target": 8,
+                "size": 5.102369532754207
+            },
+            {
+                "source": 7,
+                "target": 9,
+                "size": 13.236452147332525
+            },
+            {
+                "source": 7,
+                "target": 10,
+                "size": 2.7417853814092656
+            },
+            {
+                "source": 7,
+                "target": 11,
+                "size": 48.4787744284427
+            },
+            {
+                "source": 7,
+                "target": 12,
+                "size": 24.405827187009756
+            },
+            {
+                "source": 7,
+                "target": 13,
+                "size": 4.279118047072378
+            },
+            {
+                "source": 7,
+                "target": 14,
+                "size": 1.7556732759791691
+            }
+        ]
+    },
+    "2017": {
+        "nodes": [
+            {
+                "id": 1,
+                "name": "Sweden"
+            },
+            {
+                "id": 2,
+                "name": "Greece"
+            },
+            {
+                "id": 3,
+                "name": "Germany"
+            },
+            {
+                "id": 4,
+                "name": "Hungary"
+            },
+            {
+                "id": 5,
+                "name": "France"
+            },
+            {
+                "id": 6,
+                "name": "Netherlands"
+            },
+            {
+                "id": 7,
+                "name": "Italy"
+            },
+            {
+                "id": 8,
+                "name": "Afghanistan"
+            },
+            {
+                "id": 9,
+                "name": "Eritrea"
+            },
+            {
+                "id": 10,
+                "name": "Iraq"
+            },
+            {
+                "id": 11,
+                "name": "Nigeria"
+            },
+            {
+                "id": 12,
+                "name": "Pakistan"
+            },
+            {
+                "id": 13,
+                "name": "Somalia"
+            },
+            {
+                "id": 14,
+                "name": "Syrian Arab Rep."
+            }
+        ],
+        "links": [
+            {
+                "source": 1,
+                "target": 8,
+                "size": 45.73869556412448
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "size": 5.739290924517201
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "size": 21.433036643064995
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "size": 1.6878516357499003
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "size": 1.4437531627682545
+            },
+            {
+                "source": 1,
+                "target": 13,
+                "size": 5.456493911639033
+            },
+            {
+                "source": 1,
+                "target": 14,
+                "size": 18.50087815813612
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "size": 16.574985524661948
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "size": 0.7134585160734419
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "size": 17.116800396743947
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "size": 0.7217304989110435
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "size": 28.482504754224532
+            },
+            {
+                "source": 2,
+                "target": 13,
+                "size": 0.4880469849720305
+            },
+            {
+                "source": 2,
+                "target": 14,
+                "size": 35.90247332441305
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "size": 14.849289697542115
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "size": 8.595076231445411
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "size": 19.172819350746508
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "size": 6.709877595886502
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "size": 3.577085211559336
+            },
+            {
+                "source": 3,
+                "target": 13,
+                "size": 6.14131273521019
+            },
+            {
+                "source": 3,
+                "target": 14,
+                "size": 40.95453917760994
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "size": 47.590561650280456
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "size": 26.985709537417282
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "size": 0.4985044864965961
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "size": 5.417082086487915
+            },
+            {
+                "source": 4,
+                "target": 13,
+                "size": 0.3323363242226342
+            },
+            {
+                "source": 4,
+                "target": 14,
+                "size": 19.175805915095125
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "size": 28.68651736657641
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "size": 5.107002165598721
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "size": 9.706498207654937
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "size": 14.149838519573064
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "size": 12.634418142400481
+            },
+            {
+                "source": 5,
+                "target": 13,
+                "size": 4.7450047915115565
+            },
+            {
+                "source": 5,
+                "target": 14,
+                "size": 24.97072080668483
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "size": 10.814529445866613
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "size": 22.67473858339409
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "size": 15.079801872564124
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "size": 4.416620803463265
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "size": 2.958172811532156
+            },
+            {
+                "source": 6,
+                "target": 13,
+                "size": 2.696752890384754
+            },
+            {
+                "source": 6,
+                "target": 14,
+                "size": 41.359383592795
+            },
+            {
+                "source": 7,
+                "target": 8,
+                "size": 2.144920149218557
+            },
+            {
+                "source": 7,
+                "target": 9,
+                "size": 13.33460754792171
+            },
+            {
+                "source": 7,
+                "target": 10,
+                "size": 3.51044852217065
+            },
+            {
+                "source": 7,
+                "target": 11,
+                "size": 53.29170914038629
+            },
+            {
+                "source": 7,
+                "target": 12,
+                "size": 19.905283720521673
+            },
+            {
+                "source": 7,
+                "target": 13,
+                "size": 4.224006115732236
+            },
+            {
+                "source": 7,
+                "target": 14,
+                "size": 3.5890248040488797
+            }
+        ]
+    },
+    "2018": {
+        "nodes": [
+            {
+                "id": 1,
+                "name": "Greece"
+            },
+            {
+                "id": 2,
+                "name": "Sweden"
+            },
+            {
+                "id": 3,
+                "name": "Germany"
+            },
+            {
+                "id": 4,
+                "name": "France"
+            },
+            {
+                "id": 5,
+                "name": "Netherlands"
+            },
+            {
+                "id": 6,
+                "name": "Hungary"
+            },
+            {
+                "id": 7,
+                "name": "Italy"
+            },
+            {
+                "id": 8,
+                "name": "Afghanistan"
+            },
+            {
+                "id": 9,
+                "name": "Eritrea"
+            },
+            {
+                "id": 10,
+                "name": "Iraq"
+            },
+            {
+                "id": 11,
+                "name": "Nigeria"
+            },
+            {
+                "id": 12,
+                "name": "Pakistan"
+            },
+            {
+                "id": 13,
+                "name": "Somalia"
+            },
+            {
+                "id": 14,
+                "name": "Syrian Arab Rep."
+            }
+        ],
+        "links": [
+            {
+                "source": 1,
+                "target": 8,
+                "size": 24.397515527964273
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "size": 0.6555183947584003
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "size": 21.353081704424362
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "size": 0.584806497931581
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "size": 25.215480167327804
+            },
+            {
+                "source": 1,
+                "target": 13,
+                "size": 1.400860009660646
+            },
+            {
+                "source": 1,
+                "target": 14,
+                "size": 26.392737697932933
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "size": 42.485842893320154
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "size": 4.999757996366428
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "size": 23.948502009140668
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "size": 3.204104351051958
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "size": 2.681380378387665
+            },
+            {
+                "source": 2,
+                "target": 13,
+                "size": 7.555297422001739
+            },
+            {
+                "source": 2,
+                "target": 14,
+                "size": 15.125114949731389
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "size": 15.027532180640899
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "size": 5.273102441018074
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "size": 19.07398298678783
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "size": 13.399594515888342
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "size": 4.653478411849427
+            },
+            {
+                "source": 3,
+                "target": 13,
+                "size": 6.343198530647707
+            },
+            {
+                "source": 3,
+                "target": 14,
+                "size": 36.22911093316771
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "size": 32.993223970619276
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "size": 5.567328572273042
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "size": 7.092588232986659
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "size": 15.427883736585656
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "size": 13.243335165050533
+            },
+            {
+                "source": 4,
+                "target": 13,
+                "size": 8.756507862217683
+            },
+            {
+                "source": 4,
+                "target": 14,
+                "size": 16.919132460267136
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "size": 11.734443899286315
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "size": 18.569328760337104
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "size": 17.074963254065747
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "size": 7.912787850011382
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "size": 4.2871141587199215
+            },
+            {
+                "source": 5,
+                "target": 13,
+                "size": 2.8907398324956404
+            },
+            {
+                "source": 5,
+                "target": 14,
+                "size": 37.53062224508389
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "size": 46.00000000325852
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "size": 39.833333330074815
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "size": 5.333333333333333
+            },
+            {
+                "source": 6,
+                "target": 13,
+                "size": 0.8333333333333333
+            },
+            {
+                "source": 6,
+                "target": 14,
+                "size": 7.999999999999999
+            },
+            {
+                "source": 7,
+                "target": 8,
+                "size": 3.0304943497388614
+            },
+            {
+                "source": 7,
+                "target": 9,
+                "size": 5.701117497196248
+            },
+            {
+                "source": 7,
+                "target": 10,
+                "size": 6.092556350313172
+            },
+            {
+                "source": 7,
+                "target": 11,
+                "size": 32.457857191439075
+            },
+            {
+                "source": 7,
+                "target": 12,
+                "size": 46.18978469831509
+            },
+            {
+                "source": 7,
+                "target": 13,
+                "size": 3.933329125943034
+            },
+            {
+                "source": 7,
+                "target": 14,
+                "size": 2.5948607870545004
+            }
+        ]
+    },
+    "2019": {
+        "nodes": [
+            {
+                "id": 1,
+                "name": "Greece"
+            },
+            {
+                "id": 2,
+                "name": "France"
+            },
+            {
+                "id": 3,
+                "name": "Sweden"
+            },
+            {
+                "id": 4,
+                "name": "Germany"
+            },
+            {
+                "id": 5,
+                "name": "Netherlands"
+            },
+            {
+                "id": 6,
+                "name": "Hungary"
+            },
+            {
+                "id": 7,
+                "name": "Italy"
+            },
+            {
+                "id": 8,
+                "name": "Afghanistan"
+            },
+            {
+                "id": 9,
+                "name": "Eritrea"
+            },
+            {
+                "id": 10,
+                "name": "Iraq"
+            },
+            {
+                "id": 11,
+                "name": "Nigeria"
+            },
+            {
+                "id": 12,
+                "name": "Pakistan"
+            },
+            {
+                "id": 13,
+                "name": "Somalia"
+            },
+            {
+                "id": 14,
+                "name": "Syrian Arab Rep."
+            }
+        ],
+        "links": [
+            {
+                "source": 1,
+                "target": 8,
+                "size": 47.315116379149345
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "size": 0.6156168083766418
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "size": 11.394868535738523
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "size": 0.4190166017460735
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "size": 14.17904519792852
+            },
+            {
+                "source": 1,
+                "target": 13,
+                "size": 4.517833029576261
+            },
+            {
+                "source": 1,
+                "target": 14,
+                "size": 21.558503447484625
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "size": 34.08957508879274
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "size": 5.517417379596767
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "size": 5.333673599890157
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "size": 18.83628939953915
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "size": 12.915656500551345
+            },
+            {
+                "source": 2,
+                "target": 13,
+                "size": 10.350899579269832
+            },
+            {
+                "source": 2,
+                "target": 14,
+                "size": 12.95648845236001
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "size": 16.302489071709086
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "size": 8.607258217342972
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "size": 22.297168917934588
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "size": 6.213186395876123
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "size": 5.928177845678247
+            },
+            {
+                "source": 3,
+                "target": 13,
+                "size": 11.34334029650831
+            },
+            {
+                "source": 3,
+                "target": 14,
+                "size": 29.308379254950673
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "size": 12.619289453523576
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "size": 4.1777817456802575
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "size": 17.130802631212067
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "size": 11.756498835144043
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "size": 3.811681715718403
+            },
+            {
+                "source": 4,
+                "target": 13,
+                "size": 4.636522941890579
+            },
+            {
+                "source": 4,
+                "target": 14,
+                "size": 45.86742267683107
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "size": 8.722020069119319
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "size": 6.461572389858017
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "size": 10.188554417379766
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "size": 24.236409742174963
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "size": 4.884772301658923
+            },
+            {
+                "source": 5,
+                "target": 13,
+                "size": 3.1866798997185675
+            },
+            {
+                "source": 5,
+                "target": 14,
+                "size": 42.319991180090454
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "size": 46.90476190164887
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "size": 40.714285718905394
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "size": 1.1904761904207983
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "size": 6.428571427341726
+            },
+            {
+                "source": 6,
+                "target": 14,
+                "size": 4.761904761683193
+            },
+            {
+                "source": 7,
+                "target": 8,
+                "size": 5.382851903109393
+            },
+            {
+                "source": 7,
+                "target": 9,
+                "size": 2.182485098419817
+            },
+            {
+                "source": 7,
+                "target": 10,
+                "size": 8.62906923265107
+            },
+            {
+                "source": 7,
+                "target": 11,
+                "size": 11.480972033785726
+            },
+            {
+                "source": 7,
+                "target": 12,
+                "size": 66.74002750905909
+            },
+            {
+                "source": 7,
+                "target": 13,
+                "size": 3.741403026097281
+            },
+            {
+                "source": 7,
+                "target": 14,
+                "size": 1.8431911968776191
+            }
+        ]
+    },
+    "2020": {
+        "nodes": [
+            {
+                "id": 1,
+                "name": "Greece"
+            },
+            {
+                "id": 2,
+                "name": "France"
+            },
+            {
+                "id": 3,
+                "name": "Germany"
+            },
+            {
+                "id": 4,
+                "name": "Sweden"
+            },
+            {
+                "id": 5,
+                "name": "Netherlands"
+            },
+            {
+                "id": 6,
+                "name": "Italy"
+            },
+            {
+                "id": 7,
+                "name": "Hungary"
+            },
+            {
+                "id": 8,
+                "name": "Afghanistan"
+            },
+            {
+                "id": 9,
+                "name": "Eritrea"
+            },
+            {
+                "id": 10,
+                "name": "Iraq"
+            },
+            {
+                "id": 11,
+                "name": "Nigeria"
+            },
+            {
+                "id": 12,
+                "name": "Pakistan"
+            },
+            {
+                "id": 13,
+                "name": "Somalia"
+            },
+            {
+                "id": 14,
+                "name": "Syrian Arab Rep."
+            }
+        ],
+        "links": [
+            {
+                "source": 1,
+                "target": 8,
+                "size": 38.32779784208588
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "size": 0.6093862814375761
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "size": 7.84981949449823
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "size": 0.5891696749443864
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "size": 19.86137183902324
+            },
+            {
+                "source": 1,
+                "target": 13,
+                "size": 4.67870035985248
+            },
+            {
+                "source": 1,
+                "target": 14,
+                "size": 28.08375450815821
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "size": 38.60566835159105
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "size": 4.4005083196242385
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "size": 2.5061323396954527
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "size": 19.939710965341945
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "size": 15.211159383077714
+            },
+            {
+                "source": 2,
+                "target": 13,
+                "size": 10.769276236996632
+            },
+            {
+                "source": 2,
+                "target": 14,
+                "size": 8.567544403672965
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "size": 15.144333765113121
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "size": 3.6311053980704413
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "size": 14.818980291340138
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "size": 5.654188089472081
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "size": 2.3497750639650428
+            },
+            {
+                "source": 3,
+                "target": 13,
+                "size": 4.082315767168207
+            },
+            {
+                "source": 3,
+                "target": 14,
+                "size": 54.319301624870974
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "size": 15.916863978380677
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "size": 9.655353854950095
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "size": 24.046303600219886
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "size": 7.787424363351152
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "size": 6.827150749890291
+            },
+            {
+                "source": 4,
+                "target": 13,
+                "size": 11.352275717985977
+            },
+            {
+                "source": 4,
+                "target": 14,
+                "size": 24.414627735221924
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "size": 8.235972884614345
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "size": 6.259916343474394
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "size": 7.370546661666409
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "size": 10.514928602528238
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "size": 4.283859802334445
+            },
+            {
+                "source": 5,
+                "target": 13,
+                "size": 3.4184335793865093
+            },
+            {
+                "source": 5,
+                "target": 14,
+                "size": 59.916342125995655
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "size": 5.986113719549318
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "size": 1.2291236631977271
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "size": 4.306624131800217
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "size": 29.56464627364145
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "size": 51.200975795078506
+            },
+            {
+                "source": 6,
+                "target": 13,
+                "size": 7.130793767213939
+            },
+            {
+                "source": 6,
+                "target": 14,
+                "size": 0.5817226495188381
+            },
+            {
+                "source": 7,
+                "target": 8,
+                "size": 32.894736845143626
+            },
+            {
+                "source": 7,
+                "target": 10,
+                "size": 23.684210529016553
+            },
+            {
+                "source": 7,
+                "target": 12,
+                "size": 31.57894736774586
+            },
+            {
+                "source": 7,
+                "target": 14,
+                "size": 11.84210525809396
+            }
+        ]
+    }
+}

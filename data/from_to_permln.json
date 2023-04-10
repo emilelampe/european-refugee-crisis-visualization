@@ -1,0 +1,5154 @@
+{
+    "2009": {
+        "from": {
+            "Sweden": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 224.0142646
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 120.6644287
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 631.9288618
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 49.79289704
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 21.18617865
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 728.8260545
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 101.1989549
+                }
+            ],
+            "Greece": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 135.9500935
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 4.231559203
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 79.76939263
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 70.22587613
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 334.5632765
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 12.60464443
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 86.88201342
+                }
+            ],
+            "Hungary": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 119.1301702
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 5.687118676
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 6.585084783
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 4.090734486
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 7.48305089
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 1.895706225
+                }
+            ],
+            "Netherlands": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 77.49364383
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 28.7349577
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 120.4448438
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 9.134691817
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 2.540775207
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 356.2529809
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 6.109959427
+                }
+            ],
+            "Germany": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 42.96582268
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 4.615254611
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 89.36256216
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 10.25612136
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 6.812994901
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 4.40769025
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 14.34636023
+                }
+            ],
+            "Italy": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 12.03140043
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 15.06040279
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 7.056390971
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 67.53490735
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 23.04749281
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 27.14256863
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 2.030616107
+                }
+            ],
+            "France": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 11.04980316
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 6.583519087
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 9.318924905
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 11.89978802
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 10.29254393
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 4.311741374
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 1.01998183
+                }
+            ]
+        },
+        "to": {
+            "Afghanistan": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 224.0142646
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 135.9500935
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 119.1301702
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 77.49364383
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 42.96582268
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 12.03140043
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 11.04980316
+                }
+            ],
+            "Eritrea": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 120.6644287
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 28.7349577
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 15.06040279
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 6.583519087
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 4.615254611
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 4.231559203
+                }
+            ],
+            "Iraq": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 631.9288618
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 120.4448438
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 89.36256216
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 79.76939263
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 9.318924905
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 7.056390971
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 5.687118676
+                }
+            ],
+            "Nigeria": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 70.22587613
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 67.53490735
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 49.79289704
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 11.89978802
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 10.25612136
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 9.134691817
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 6.585084783
+                }
+            ],
+            "Pakistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 334.5632765
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 23.04749281
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 21.18617865
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 10.29254393
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 6.812994901
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 4.090734486
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 2.540775207
+                }
+            ],
+            "Somalia": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 728.8260545
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 356.2529809
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 27.14256863
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 12.60464443
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 7.48305089
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 4.40769025
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 4.311741374
+                }
+            ],
+            "Syrian Arab Rep.": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 101.1989549
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 86.88201342
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 14.34636023
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 6.109959427
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 2.030616107
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 1.895706225
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 1.01998183
+                }
+            ]
+        },
+        "total_applied_per_mln_people": 3728.5691015299994,
+        "total_per_country": {
+            "Sweden": 1877.6116401900001,
+            "Greece": 724.2268558129999,
+            "Hungary": 144.87186526,
+            "Netherlands": 600.7118526810001,
+            "Germany": 172.766806192,
+            "Italy": 153.90377908800002,
+            "France": 54.476302306
+        }
+    },
+    "2010": {
+        "from": {
+            "Sweden": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 316.3745081
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 170.6097785
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 316.6944014
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 55.55480914
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 20.47317343
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 676.574403
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 80.18659591
+                }
+            ],
+            "Netherlands": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 95.33327949
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 24.67591199
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 114.5925279
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 11.01388267
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 3.912034827
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 220.93969
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 8.967587528
+                }
+            ],
+            "Germany": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 74.14071426
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 8.095192617
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 72.72222129
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 9.477000421
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 11.3724005
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 27.64838445
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 24.89699723
+                }
+            ],
+            "Hungary": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 70.19983854
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 4.79998896
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 3.69999149
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 4.09999057
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 5.09998827
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 2.29999471
+                }
+            ],
+            "Greece": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 61.50337446
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 5.754701704
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 43.9695177
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 41.63167014
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 276.315599
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 13.93716819
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 26.97516424
+                }
+            ],
+            "Italy": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 14.72736236
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 3.05343939
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 6.410535736
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 23.36471577
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 15.67207289
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 1.417065794
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 0.809751882
+                }
+            ],
+            "France": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 12.21021781
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 11.21064079
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 6.920148636
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 20.03767483
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 20.48363996
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 6.458805393
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 3.029487292
+                }
+            ]
+        },
+        "to": {
+            "Afghanistan": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 316.3745081
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 95.33327949
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 74.14071426
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 70.19983854
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 61.50337446
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 14.72736236
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 12.21021781
+                }
+            ],
+            "Eritrea": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 170.6097785
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 24.67591199
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 11.21064079
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 8.095192617
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 5.754701704
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 3.05343939
+                }
+            ],
+            "Iraq": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 316.6944014
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 114.5925279
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 72.72222129
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 43.9695177
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 6.920148636
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 6.410535736
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 4.79998896
+                }
+            ],
+            "Nigeria": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 55.55480914
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 41.63167014
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 23.36471577
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 20.03767483
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 11.01388267
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 9.477000421
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 3.69999149
+                }
+            ],
+            "Pakistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 276.315599
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 20.48363996
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 20.47317343
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 15.67207289
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 11.3724005
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 4.09999057
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 3.912034827
+                }
+            ],
+            "Somalia": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 676.574403
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 220.93969
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 27.64838445
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 13.93716819
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 6.458805393
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 5.09998827
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 1.417065794
+                }
+            ],
+            "Syrian Arab Rep.": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 80.18659591
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 26.97516424
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 24.89699723
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 8.967587528
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 3.029487292
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 2.29999471
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 0.809751882
+                }
+            ]
+        },
+        "total_applied_per_mln_people": 3050.348041160001,
+        "total_per_country": {
+            "Sweden": 1636.46766948,
+            "Netherlands": 479.43491440500003,
+            "Germany": 228.35291076800002,
+            "Hungary": 90.19979254,
+            "Greece": 470.0871954340001,
+            "Italy": 65.454943822,
+            "France": 80.350614711
+        }
+    },
+    "2011": {
+        "from": {
+            "Sweden": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 542.3732114
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 192.3969753
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 263.4081801
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 60.00499724
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 31.96033363
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 462.5782062
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 104.7706301
+                }
+            ],
+            "Netherlands": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 143.352866
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 29.95254199
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 120.2295036
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 8.985762598
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 7.847566003
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 118.9714968
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 11.86120663
+                }
+            ],
+            "Germany": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 99.08441837
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 8.084710526
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 77.33418019
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 10.0778595
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 32.88695807
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 12.56929572
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 42.80287422
+                }
+            ],
+            "Hungary": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 65.08401203
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 0.501417658
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 5.415310708
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 2.206237696
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 12.13430733
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 6.117295429
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 9.125801378
+                }
+            ],
+            "Greece": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 57.36207056
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 3.331862811
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 23.14293899
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 32.59822534
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 207.9262495
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 6.123423545
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 31.69772188
+                }
+            ],
+            "Italy": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 24.06556518
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 8.942487829
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 5.94481771
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 130.6512629
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 43.09571818
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 23.17300048
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 9.110896263
+                }
+            ],
+            "France": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 10.42196102
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 14.26324181
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 4.055535493
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 13.98777147
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 22.54265578
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 11.73809707
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 1.821164995
+                }
+            ]
+        },
+        "to": {
+            "Afghanistan": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 542.3732114
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 143.352866
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 99.08441837
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 65.08401203
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 57.36207056
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 24.06556518
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 10.42196102
+                }
+            ],
+            "Eritrea": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 192.3969753
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 29.95254199
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 14.26324181
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 8.942487829
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 8.084710526
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 3.331862811
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 0.501417658
+                }
+            ],
+            "Iraq": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 263.4081801
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 120.2295036
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 77.33418019
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 23.14293899
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 5.94481771
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 5.415310708
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 4.055535493
+                }
+            ],
+            "Nigeria": [
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 130.6512629
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 60.00499724
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 32.59822534
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 13.98777147
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 10.0778595
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 8.985762598
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 2.206237696
+                }
+            ],
+            "Pakistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 207.9262495
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 43.09571818
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 32.88695807
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 31.96033363
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 22.54265578
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 12.13430733
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 7.847566003
+                }
+            ],
+            "Somalia": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 462.5782062
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 118.9714968
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 23.17300048
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 12.56929572
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 11.73809707
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 6.123423545
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 6.117295429
+                }
+            ],
+            "Syrian Arab Rep.": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 104.7706301
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 42.80287422
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 31.69772188
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 11.86120663
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 9.125801378
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 9.110896263
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 1.821164995
+                }
+            ]
+        },
+        "total_applied_per_mln_people": 3168.114825222,
+        "total_per_country": {
+            "Sweden": 1657.49253397,
+            "Netherlands": 441.200943621,
+            "Germany": 282.840296596,
+            "Hungary": 100.584382229,
+            "Greece": 362.182492626,
+            "Italy": 244.98374854200003,
+            "France": 78.830427638
+        }
+    },
+    "2012": {
+        "from": {
+            "Sweden": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 499.5076357
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 247.495266
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 138.8746781
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 52.62951114
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 29.72884562
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 592.8961295
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 820.8522955
+                }
+            ],
+            "Germany": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 97.45626103
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 8.318223862
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 70.54948011
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 12.02350146
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 44.17735334
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 16.10179357
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 98.60017224
+                }
+            ],
+            "Netherlands": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 96.74745905
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 28.70791351
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 112.4443016
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 8.773520346
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 10.14624802
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 85.10911574
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 34.31819183
+                }
+            ],
+            "Hungary": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 88.70644035
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 0.504013866
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 2.822477647
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 2.721674874
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 32.96250681
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 6.955391346
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 14.6164021
+                }
+            ],
+            "Greece": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 52.87455123
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 12.49432889
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 28.51966376
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 24.17381024
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 211.7698208
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 5.432316908
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 24.89811916
+                }
+            ],
+            "Italy": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 25.10928965
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 12.32790542
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 6.768591124
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 27.09116001
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 43.68512534
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 13.55397776
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 5.945611062
+                }
+            ],
+            "France": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 13.50902395
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 13.98115444
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 3.335373445
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 25.25136608
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 48.97973059
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 14.60558508
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 10.18888052
+                }
+            ]
+        },
+        "to": {
+            "Afghanistan": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 499.5076357
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 97.45626103
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 96.74745905
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 88.70644035
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 52.87455123
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 25.10928965
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 13.50902395
+                }
+            ],
+            "Eritrea": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 247.495266
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 28.70791351
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 13.98115444
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 12.49432889
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 12.32790542
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 8.318223862
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 0.504013866
+                }
+            ],
+            "Iraq": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 138.8746781
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 112.4443016
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 70.54948011
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 28.51966376
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 6.768591124
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 3.335373445
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 2.822477647
+                }
+            ],
+            "Nigeria": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 52.62951114
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 27.09116001
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 25.25136608
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 24.17381024
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 12.02350146
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 8.773520346
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 2.721674874
+                }
+            ],
+            "Pakistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 211.7698208
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 48.97973059
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 44.17735334
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 43.68512534
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 32.96250681
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 29.72884562
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 10.14624802
+                }
+            ],
+            "Somalia": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 592.8961295
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 85.10911574
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 16.10179357
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 14.60558508
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 13.55397776
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 6.955391346
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 5.432316908
+                }
+            ],
+            "Syrian Arab Rep.": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 820.8522955
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 98.60017224
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 34.31819183
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 24.89811916
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 14.6164021
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 10.18888052
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 5.945611062
+                }
+            ]
+        },
+        "total_applied_per_mln_people": 3879.2421897199993,
+        "total_per_country": {
+            "Sweden": 2381.98436156,
+            "Germany": 347.226785612,
+            "Netherlands": 376.24675009599997,
+            "Hungary": 149.28890699299998,
+            "Greece": 360.16261098800004,
+            "Italy": 134.481660366,
+            "France": 129.851114105
+        }
+    },
+    "2013": {
+        "from": {
+            "Sweden": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 421.4416952
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 523.1043483
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 221.0329405
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 92.39218577
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 46.45649927
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 520.7086095
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 1898.779204
+                }
+            ],
+            "Hungary": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 235.3159511
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 9.804831295
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 6.165924835
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 45.99173443
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 311.4297445
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 19.20533965
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 98.7558781
+                }
+            ],
+            "Greece": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 139.3498037
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 16.59794782
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 21.61381117
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 42.58923973
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 302.3197638
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 13.67962732
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 47.6963006
+                }
+            ],
+            "Germany": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 102.1754378
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 45.1109518
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 52.03011373
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 24.53946498
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 52.67491018
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 48.04973563
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 159.5003224
+                }
+            ],
+            "Netherlands": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 82.24020901
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 61.82892704
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 84.382501
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 9.818838268
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 10.35441126
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 194.591522
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 161.0289476
+                }
+            ],
+            "Italy": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 34.10037144
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 35.01347778
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 9.1642673
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 58.42220404
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 53.65744912
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 46.05376357
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 10.52562585
+                }
+            ],
+            "France": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 13.18208082
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 10.2274765
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 2.000039849
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 31.84911942
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 51.69799974
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 12.24266817
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 21.12163295
+                }
+            ]
+        },
+        "to": {
+            "Afghanistan": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 421.4416952
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 235.3159511
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 139.3498037
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 102.1754378
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 82.24020901
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 34.10037144
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 13.18208082
+                }
+            ],
+            "Eritrea": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 523.1043483
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 61.82892704
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 45.1109518
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 35.01347778
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 16.59794782
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 10.2274765
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 9.804831295
+                }
+            ],
+            "Iraq": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 221.0329405
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 84.382501
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 52.03011373
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 21.61381117
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 9.1642673
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 6.165924835
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 2.000039849
+                }
+            ],
+            "Nigeria": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 92.39218577
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 58.42220404
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 45.99173443
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 42.58923973
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 31.84911942
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 24.53946498
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 9.818838268
+                }
+            ],
+            "Pakistan": [
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 311.4297445
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 302.3197638
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 53.65744912
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 52.67491018
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 51.69799974
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 46.45649927
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 10.35441126
+                }
+            ],
+            "Somalia": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 520.7086095
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 194.591522
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 48.04973563
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 46.05376357
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 19.20533965
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 13.67962732
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 12.24266817
+                }
+            ],
+            "Syrian Arab Rep.": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 1898.779204
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 161.0289476
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 159.5003224
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 98.7558781
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 47.6963006
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 21.12163295
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 10.52562585
+                }
+            ]
+        },
+        "total_applied_per_mln_people": 6512.015849837002,
+        "total_per_country": {
+            "Sweden": 3723.91548254,
+            "Hungary": 726.66940391,
+            "Greece": 583.8464941399999,
+            "Germany": 484.0809365199999,
+            "Netherlands": 604.2453561780001,
+            "Italy": 246.93715910000003,
+            "France": 142.321017449
+        }
+    },
+    "2014": {
+        "from": {
+            "Hungary": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 891.504437
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 11.95970027
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 50.37263588
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 26.04782177
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 40.64271024
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 19.66255807
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 694.9802097
+                }
+            ],
+            "Sweden": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 426.8722199
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 1213.785735
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 345.8087831
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 79.82582706
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 56.62064477
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 595.3934103
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 3251.303873
+                }
+            ],
+            "Greece": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 207.1166416
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 32.1324577
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 28.73559789
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 59.49095026
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 334.2693671
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 15.23996565
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 85.74775855
+                }
+            ],
+            "Germany": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 119.4455592
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 163.652641
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 117.2969469
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 49.25755564
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 52.18411385
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 70.20035193
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 507.5170562
+                }
+            ],
+            "Netherlands": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 52.11974996
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 231.7223923
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 78.38715523
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 15.77230204
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 13.69699914
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 35.33944366
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 521.1382052
+                }
+            ],
+            "Italy": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 51.32495706
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 7.912597546
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 13.02864295
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 166.6909583
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 117.6032429
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 13.27539755
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 8.373206135
+                }
+            ],
+            "France": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 12.42609433
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 15.6381794
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 14.05475718
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 31.97004853
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 53.61015213
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 16.51283167
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 49.71945755
+                }
+            ]
+        },
+        "to": {
+            "Afghanistan": [
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 891.504437
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 426.8722199
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 207.1166416
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 119.4455592
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 52.11974996
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 51.32495706
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 12.42609433
+                }
+            ],
+            "Eritrea": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 1213.785735
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 231.7223923
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 163.652641
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 32.1324577
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 15.6381794
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 11.95970027
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 7.912597546
+                }
+            ],
+            "Iraq": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 345.8087831
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 117.2969469
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 78.38715523
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 50.37263588
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 28.73559789
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 14.05475718
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 13.02864295
+                }
+            ],
+            "Nigeria": [
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 166.6909583
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 79.82582706
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 59.49095026
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 49.25755564
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 31.97004853
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 26.04782177
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 15.77230204
+                }
+            ],
+            "Pakistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 334.2693671
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 117.6032429
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 56.62064477
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 53.61015213
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 52.18411385
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 40.64271024
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 13.69699914
+                }
+            ],
+            "Somalia": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 595.3934103
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 70.20035193
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 35.33944366
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 19.66255807
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 16.51283167
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 15.23996565
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 13.27539755
+                }
+            ],
+            "Syrian Arab Rep.": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 3251.303873
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 694.9802097
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 521.1382052
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 507.5170562
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 85.74775855
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 49.71945755
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 8.373206135
+                }
+            ]
+        },
+        "total_applied_per_mln_people": 11067.384300291002,
+        "total_per_country": {
+            "Hungary": 1735.17007293,
+            "Sweden": 5969.61049313,
+            "Greece": 762.73273875,
+            "Germany": 1079.55422472,
+            "Netherlands": 948.1762475300001,
+            "Italy": 378.209002441,
+            "France": 193.93152079000004
+        }
+    },
+    "2015": {
+        "from": {
+            "Hungary": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 4696.420654
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 55.77551948
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 942.6977146
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 102.1027269
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 1539.871674
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 35.76135311
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 6561.700322
+                }
+            ],
+            "Sweden": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 4307.602693
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 757.001653
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 2193.345447
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 60.20908267
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 65.10744872
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 641.6859523
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 5310.134944
+                }
+            ],
+            "Germany": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 390.5413581
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 134.5385721
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 384.1388401
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 64.90659773
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 103.713447
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 66.00836947
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 1989.432515
+                }
+            ],
+            "Greece": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 175.5864101
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 15.15587961
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 64.32007443
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 56.64972073
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 264.7658236
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 11.64415141
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 323.2638224
+                }
+            ],
+            "Netherlands": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 169.4222577
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 438.0775521
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 191.5593123
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 16.76512933
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 12.573847
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 27.03672266
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 1105.731118
+                }
+            ],
+            "Italy": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 65.63414788
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 11.49338566
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 8.315415123
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 292.7520108
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 169.387476
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 11.8391752
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 8.331881292
+                }
+            ],
+            "France": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 39.88082516
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 28.71599731
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 47.0185011
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 41.42857383
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 60.43733187
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 28.52065039
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 81.51977259
+                }
+            ]
+        },
+        "to": {
+            "Afghanistan": [
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 4696.420654
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 4307.602693
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 390.5413581
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 175.5864101
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 169.4222577
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 65.63414788
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 39.88082516
+                }
+            ],
+            "Eritrea": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 757.001653
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 438.0775521
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 134.5385721
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 55.77551948
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 28.71599731
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 15.15587961
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 11.49338566
+                }
+            ],
+            "Iraq": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 2193.345447
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 942.6977146
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 384.1388401
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 191.5593123
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 64.32007443
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 47.0185011
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 8.315415123
+                }
+            ],
+            "Nigeria": [
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 292.7520108
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 102.1027269
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 64.90659773
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 60.20908267
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 56.64972073
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 41.42857383
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 16.76512933
+                }
+            ],
+            "Pakistan": [
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 1539.871674
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 264.7658236
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 169.387476
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 103.713447
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 65.10744872
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 60.43733187
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 12.573847
+                }
+            ],
+            "Somalia": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 641.6859523
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 66.00836947
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 35.76135311
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 28.52065039
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 27.03672266
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 11.8391752
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 11.64415141
+                }
+            ],
+            "Syrian Arab Rep.": [
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 6561.700322
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 5310.134944
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 1989.432515
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 1105.731118
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 323.2638224
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 81.51977259
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 8.331881292
+                }
+            ]
+        },
+        "total_applied_per_mln_people": 34170.523849854995,
+        "total_per_country": {
+            "Hungary": 13934.329964089999,
+            "Sweden": 13335.08722069,
+            "Germany": 3133.2796995,
+            "Greece": 911.3858822799999,
+            "Netherlands": 1961.16593909,
+            "Italy": 567.753491955,
+            "France": 327.52165225000005
+        }
+    },
+    "2016": {
+        "from": {
+            "Germany": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 1553.054853
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 231.9770341
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 1179.885494
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 156.8452794
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 188.5640677
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 124.25216
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 3264.970804
+                }
+            ],
+            "Hungary": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 1126.143682
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 5.706120721
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 351.7415845
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 8.457286069
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 394.6393849
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 33.72724926
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 507.3352691
+                }
+            ],
+            "Sweden": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 784.0303696
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 159.9301024
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 527.456935
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 69.23250179
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 57.74413905
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 311.8989709
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 866.8675115
+                }
+            ],
+            "Greece": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 424.5557083
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 40.9243863
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 450.7250437
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 47.23472251
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 608.3906499
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 12.80627054
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 2583.525884
+                }
+            ],
+            "France": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 101.2677518
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 29.83929166
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 42.4883937
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 50.37160184
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 49.0827123
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 22.28579945
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 99.33441744
+                }
+            ],
+            "Netherlands": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 93.24549154
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 114.6778621
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 67.99639748
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 16.3238329
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 11.09785762
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 15.50176937
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 153.6671608
+                }
+            ],
+            "Italy": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 47.02486651
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 121.9908498
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 25.2690619
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 446.7939614
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 224.9309381
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 39.43755027
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 16.18077658
+                }
+            ]
+        },
+        "to": {
+            "Afghanistan": [
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 1553.054853
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 1126.143682
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 784.0303696
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 424.5557083
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 101.2677518
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 93.24549154
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 47.02486651
+                }
+            ],
+            "Eritrea": [
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 231.9770341
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 159.9301024
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 121.9908498
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 114.6778621
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 40.9243863
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 29.83929166
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 5.706120721
+                }
+            ],
+            "Iraq": [
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 1179.885494
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 527.456935
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 450.7250437
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 351.7415845
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 67.99639748
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 42.4883937
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 25.2690619
+                }
+            ],
+            "Nigeria": [
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 446.7939614
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 156.8452794
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 69.23250179
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 50.37160184
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 47.23472251
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 16.3238329
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 8.457286069
+                }
+            ],
+            "Pakistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 608.3906499
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 394.6393849
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 224.9309381
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 188.5640677
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 57.74413905
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 49.0827123
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 11.09785762
+                }
+            ],
+            "Somalia": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 311.8989709
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 124.25216
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 39.43755027
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 33.72724926
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 22.28579945
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 15.50176937
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 12.80627054
+                }
+            ],
+            "Syrian Arab Rep.": [
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 3264.970804
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 2583.525884
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 866.8675115
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 507.3352691
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 153.6671608
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 99.33441744
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 16.18077658
+                }
+            ]
+        },
+        "total_applied_per_mln_people": 17861.431808800004,
+        "total_per_country": {
+            "Germany": 6699.5496922,
+            "Hungary": 2427.75057655,
+            "Sweden": 2777.16053024,
+            "Greece": 4168.16266525,
+            "France": 394.66996819,
+            "Netherlands": 472.51037181000004,
+            "Italy": 921.62800456
+        }
+    },
+    "2017": {
+        "from": {
+            "Sweden": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 1527.68556
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 191.6939642
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 715.8695757
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 56.37472909
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 48.22177003
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 182.2484628
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 617.9346407
+                }
+            ],
+            "Greece": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 745.2570179
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 32.07906066
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 769.6185074
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 32.4509918
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 1280.651891
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 21.94393715
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 1614.274122
+                }
+            ],
+            "Germany": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 221.1790841
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 128.0230319
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 285.5777421
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 99.94313609
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 53.28042263
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 91.47440407
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 610.014866
+                }
+            ],
+            "Hungary": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 146.302102
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 82.95901314
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 1.532494085
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 16.65310239
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 1.021662723
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 58.94993914
+                }
+            ],
+            "France": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 120.789587
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 21.50392376
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 40.87090443
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 59.58036415
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 53.19942222
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 19.97967065
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 105.1435772
+                }
+            ],
+            "Netherlands": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 45.88094211
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 96.19820941
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 63.97647907
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 18.73763666
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 12.55013047
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 11.44104918
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 175.4683358
+                }
+            ],
+            "Italy": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 16.68409163
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 103.7221895
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 27.30574601
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 414.525342
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 154.8316741
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 32.85609728
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 27.9169454
+                }
+            ]
+        },
+        "to": {
+            "Afghanistan": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 1527.68556
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 745.2570179
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 221.1790841
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 146.302102
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 120.789587
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 45.88094211
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 16.68409163
+                }
+            ],
+            "Eritrea": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 191.6939642
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 128.0230319
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 103.7221895
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 96.19820941
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 32.07906066
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 21.50392376
+                }
+            ],
+            "Iraq": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 769.6185074
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 715.8695757
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 285.5777421
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 82.95901314
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 63.97647907
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 40.87090443
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 27.30574601
+                }
+            ],
+            "Nigeria": [
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 414.525342
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 99.94313609
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 59.58036415
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 56.37472909
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 32.4509918
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 18.73763666
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 1.532494085
+                }
+            ],
+            "Pakistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 1280.651891
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 154.8316741
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 53.28042263
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 53.19942222
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 48.22177003
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 16.65310239
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 12.55013047
+                }
+            ],
+            "Somalia": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 182.2484628
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 91.47440407
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 32.85609728
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 21.94393715
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 19.97967065
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 11.44104918
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 1.021662723
+                }
+            ],
+            "Syrian Arab Rep.": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 1614.274122
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 617.9346407
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 610.014866
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 175.4683358
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 105.1435772
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 58.94993914
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 27.9169454
+                }
+            ]
+        },
+        "total_applied_per_mln_people": 11256.377548828,
+        "total_per_country": {
+            "Sweden": 3340.0287025200005,
+            "Greece": 4496.27552791,
+            "Germany": 1489.49268689,
+            "Hungary": 307.41831347799996,
+            "France": 421.06744941,
+            "Netherlands": 424.2527827,
+            "Italy": 777.84208592
+        }
+    },
+    "2018": {
+        "from": {
+            "Greece": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 1189.428897
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 31.95786556
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 1041.006507
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 28.51051563
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 1229.30635
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 68.29479724
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 1286.700068
+                }
+            ],
+            "Sweden": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 862.6845588
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 101.5212063
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 486.2796989
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 65.06005672
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 54.44602934
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 153.4120069
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 307.1188478
+                }
+            ],
+            "Germany": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 302.1864024
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 106.0360302
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 383.5558779
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 269.4504468
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 93.57610305
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 127.5544328
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 728.5257861
+                }
+            ],
+            "France": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 187.9379624
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 31.71294775
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 40.40122244
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 87.88122786
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 75.43747251
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 49.87934028
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 96.37576743
+                }
+            ],
+            "Netherlands": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 55.59545635
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 87.97777853
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 80.89777261
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 37.4892117
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 20.3114924
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 13.69574916
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 177.8126078
+                }
+            ],
+            "Hungary": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 28.23366509
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 24.44871723
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 3.273468416
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 0.51147944
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 4.910202624
+                }
+            ],
+            "Italy": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 7.944157866
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 14.94494699
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 15.97106738
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 85.08524081
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 121.0822061
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 10.3108549
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 6.802185173
+                }
+            ]
+        },
+        "to": {
+            "Afghanistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 1189.428897
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 862.6845588
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 302.1864024
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 187.9379624
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 55.59545635
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 28.23366509
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 7.944157866
+                }
+            ],
+            "Eritrea": [
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 106.0360302
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 101.5212063
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 87.97777853
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 31.95786556
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 31.71294775
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 14.94494699
+                }
+            ],
+            "Iraq": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 1041.006507
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 486.2796989
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 383.5558779
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 80.89777261
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 40.40122244
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 24.44871723
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 15.97106738
+                }
+            ],
+            "Nigeria": [
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 269.4504468
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 87.88122786
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 85.08524081
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 65.06005672
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 37.4892117
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 28.51051563
+                }
+            ],
+            "Pakistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 1229.30635
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 121.0822061
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 93.57610305
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 75.43747251
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 54.44602934
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 20.3114924
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 3.273468416
+                }
+            ],
+            "Somalia": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 153.4120069
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 127.5544328
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 68.29479724
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 49.87934028
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 13.69574916
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 10.3108549
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 0.51147944
+                }
+            ],
+            "Syrian Arab Rep.": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 1286.700068
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 728.5257861
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 307.1188478
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 177.8126078
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 96.37576743
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 6.802185173
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 4.910202624
+                }
+            ]
+        },
+        "total_applied_per_mln_people": 10283.536685678997,
+        "total_per_country": {
+            "Greece": 4875.20500043,
+            "Sweden": 2030.52240476,
+            "Germany": 2010.8850792500002,
+            "France": 569.6259406700001,
+            "Netherlands": 473.78006855,
+            "Hungary": 61.377532800000004,
+            "Italy": 262.14065921900004
+        }
+    },
+    "2019": {
+        "from": {
+            "Greece": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 2222.24668
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 28.91364353
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 535.1822147
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 19.67993156
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 665.9464993
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 212.1888356
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 1012.537142
+                }
+            ],
+            "France": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 198.6351425
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 32.14921232
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 31.07856325
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 109.7563997
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 75.25770746
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 60.31323088
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 75.49562948
+                }
+            ],
+            "Sweden": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 166.9441448
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 88.1418387
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 228.3321142
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 63.62556569
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 60.70696176
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 116.1604364
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 300.1297709
+                }
+            ],
+            "Germany": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 136.064472
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 45.04593301
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 184.7087844
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 126.7616384
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 41.09854695
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 49.9922003
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 494.5545208
+                }
+            ],
+            "Netherlands": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 45.60425172
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 33.78519786
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 53.27222325
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 126.7233189
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 25.54068712
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 16.66198325
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 221.2757498
+                }
+            ],
+            "Hungary": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 20.16141206
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 17.50051504
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 0.511710966
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 2.763239216
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 2.046843864
+                }
+            ],
+            "Italy": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 9.82770855
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 3.984658662
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 15.75446975
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 20.96131364
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 121.8501922
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 6.830843421
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 3.365194921
+                }
+            ]
+        },
+        "to": {
+            "Afghanistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 2222.24668
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 198.6351425
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 166.9441448
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 136.064472
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 45.60425172
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 20.16141206
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 9.82770855
+                }
+            ],
+            "Eritrea": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 88.1418387
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 45.04593301
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 33.78519786
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 32.14921232
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 28.91364353
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 3.984658662
+                }
+            ],
+            "Iraq": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 535.1822147
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 228.3321142
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 184.7087844
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 53.27222325
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 31.07856325
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 17.50051504
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 15.75446975
+                }
+            ],
+            "Nigeria": [
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 126.7616384
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 126.7233189
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 109.7563997
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 63.62556569
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 20.96131364
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 19.67993156
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 0.511710966
+                }
+            ],
+            "Pakistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 665.9464993
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 121.8501922
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 75.25770746
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 60.70696176
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 41.09854695
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 25.54068712
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 2.763239216
+                }
+            ],
+            "Somalia": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 212.1888356
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 116.1604364
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 60.31323088
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 49.9922003
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 16.66198325
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 6.830843421
+                }
+            ],
+            "Syrian Arab Rep.": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 1012.537142
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 494.5545208
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 300.1297709
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 221.2757498
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 75.49562948
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 3.365194921
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 2.046843864
+                }
+            ]
+        },
+        "total_applied_per_mln_people": 8130.069274780004,
+        "total_per_country": {
+            "Greece": 4696.6949466900005,
+            "France": 582.68588559,
+            "Sweden": 1024.04083245,
+            "Germany": 1078.22609586,
+            "Netherlands": 522.8634119,
+            "Hungary": 42.98372114600001,
+            "Italy": 182.574381144
+        }
+    },
+    "2020": {
+        "from": {
+            "Greece": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 1238.480642
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 19.69101163
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 253.650093
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 19.03775532
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 641.7776635
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 151.1821746
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 907.466337
+                }
+            ],
+            "France": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 193.8372659
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 22.09474768
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 12.58317396
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 100.1163617
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 76.37452405
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 54.07203529
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 43.01724212
+                }
+            ],
+            "Germany": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 135.8833333
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 32.58028466
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 132.9640821
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 50.73250079
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 21.08348067
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 36.62879349
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 487.3827982
+                }
+            ],
+            "Sweden": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 116.8693464
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 70.89429776
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 176.5596407
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 57.17905215
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 50.12825686
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 83.3539223
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 179.2640554
+                }
+            ],
+            "Netherlands": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 32.73868754
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 24.88369596
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 29.29854524
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 41.79772892
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 17.02870438
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 13.58856208
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 238.1725184
+                }
+            ],
+            "Italy": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 10.71296225
+                },
+                {
+                    "to": "Eritrea",
+                    "applied_per_mln_people": 2.199683471
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 7.707287885
+                },
+                {
+                    "to": "Nigeria",
+                    "applied_per_mln_people": 52.90994363
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 91.63108931
+                },
+                {
+                    "to": "Somalia",
+                    "applied_per_mln_people": 12.76152242
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 1.041071566
+                }
+            ],
+            "Hungary": [
+                {
+                    "to": "Afghanistan",
+                    "applied_per_mln_people": 2.564164893
+                },
+                {
+                    "to": "Iraq",
+                    "applied_per_mln_people": 1.846198723
+                },
+                {
+                    "to": "Pakistan",
+                    "applied_per_mln_people": 2.461598297
+                },
+                {
+                    "to": "Syrian Arab Rep.",
+                    "applied_per_mln_people": 0.923099361
+                }
+            ]
+        },
+        "to": {
+            "Afghanistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 1238.480642
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 193.8372659
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 135.8833333
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 116.8693464
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 32.73868754
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 10.71296225
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 2.564164893
+                }
+            ],
+            "Eritrea": [
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 70.89429776
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 32.58028466
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 24.88369596
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 22.09474768
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 19.69101163
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 2.199683471
+                }
+            ],
+            "Iraq": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 253.650093
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 176.5596407
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 132.9640821
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 29.29854524
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 12.58317396
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 7.707287885
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 1.846198723
+                }
+            ],
+            "Nigeria": [
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 100.1163617
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 57.17905215
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 52.90994363
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 50.73250079
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 41.79772892
+                },
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 19.03775532
+                }
+            ],
+            "Pakistan": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 641.7776635
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 91.63108931
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 76.37452405
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 50.12825686
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 21.08348067
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 17.02870438
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 2.461598297
+                }
+            ],
+            "Somalia": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 151.1821746
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 83.3539223
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 54.07203529
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 36.62879349
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 13.58856208
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 12.76152242
+                }
+            ],
+            "Syrian Arab Rep.": [
+                {
+                    "from": "Greece",
+                    "applied_per_mln_people": 907.466337
+                },
+                {
+                    "from": "Germany",
+                    "applied_per_mln_people": 487.3827982
+                },
+                {
+                    "from": "Netherlands",
+                    "applied_per_mln_people": 238.1725184
+                },
+                {
+                    "from": "Sweden",
+                    "applied_per_mln_people": 179.2640554
+                },
+                {
+                    "from": "France",
+                    "applied_per_mln_people": 43.01724212
+                },
+                {
+                    "from": "Italy",
+                    "applied_per_mln_people": 1.041071566
+                },
+                {
+                    "from": "Hungary",
+                    "applied_per_mln_people": 0.923099361
+                }
+            ]
+        },
+        "total_applied_per_mln_people": 5949.151936855999,
+        "total_per_country": {
+            "Greece": 3231.28567705,
+            "France": 502.09535070000004,
+            "Germany": 897.25527321,
+            "Sweden": 734.24857157,
+            "Netherlands": 397.50844252,
+            "Italy": 178.963560532,
+            "Hungary": 7.795061274
+        }
+    }
+}

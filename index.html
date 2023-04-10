@@ -1,0 +1,1176 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://momentjs.com/downloads/moment.min.js"></script>
+
+    <style type="text/css">
+        html {
+            height: 100%;
+        }
+
+        body {
+            background: #0f0c29;
+            /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #24243e, #050036, #0f0c29);
+            /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #151a1f, #1e252b, #2c363f,#2c363f, #2c363f);
+            /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            height: 100%;
+        }
+
+        h1 {
+            color: rgb(115, 115, 115);
+            font-size: 18px;
+            font-family: sans-serif;
+            font-weight: bold;
+            margin: 0;
+            padding-bottom: 10px;
+
+        }
+
+        text {
+            color: white;
+            position: relative;
+            z-index: 100;
+        }
+
+        #container {
+            width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 20px;
+            padding: 20px;
+            background-color: rgb(11, 7, 56);
+            box-shadow: 1px 1px 1px 2px rgb(217, 217, 217);
+        }
+
+        .country {
+            fill: #FDCC8A;
+            stroke: #1e252b;
+            position: relative;
+            z-index: 1;
+        }
+
+
+        path {
+            stroke-linejoin: round;
+            stroke-miterlimit: 2;
+            stroke-linecap: round;
+        }
+
+
+        #arrowhead {
+            fill: #D7301F;
+            stroke: none;
+        }
+
+        #border {
+            fill: #ffffff;
+            stroke: none;
+        }
+
+        #route {
+            fill: #5b5e8541;
+            stroke: none;
+        }
+
+        .migratoryroute {
+            fill: #ff00aa00;
+            stroke: #ff000036;
+        }
+
+        #deathsHolder {
+            color: white
+        }
+
+        /* use.Black_Sea {
+        fill: #fa2bb5;
+        stroke: #fa2bb5;
+    }
+
+    use.Syrian_North_African {
+        fill: #fae52b;
+        stroke: none;
+    }
+
+    use.Central_African_Routes {
+        fill: #2baefa;
+    } */
+    </style>
+
+
+</head>
+
+<body>
+    <div class="ml-64 fixed p-6">
+        <div class=" text-3xl text-white"> The European Refugee Crisis: </div>
+        <div class=" text-2xl text-white mt-1 font-bold"> A migratory visualization</div>
+
+        <div class="text-md text-white w-9/12 lg:w-8/12 mt-2"> As reported by the UN Refugee Agency, the UNHCR, over 12 million people of concern (refugees, asylum-seekers and/or migrant) are staying in Europe by the 31st of December 2020. <br> 
+        Different organisations collect extensive amounts of data covering the migrational events around these people. <br> <br> 
+        On the map charted below you can observe the magnitudes of the migration flows into Europe accross different routes. <br> Frontex, the European border management agency, collects data on Illegal Border Crossings (IBCs) among different routes taken accross African Mediterrenean, Adriatic and Balkan regions. Using your mouse wheel you can scroll through time.
+        The graph below shows the amount of migrant that applied for asylum for most applying nationalities.    
+        </div>
+
+
+    </div>
+    <div id="yearSliderHolder" class="h-screen w-64 fixed t-0">
+        <svg id="yearSlider"></svg>
+    </div>
+    <div id="countriesChartHolder" class="bottom-56 h-1/2 w-2/5 ml-64 fixed z-10">
+
+        <div id="countriestooltip" class="text-sm absolute top-0 right-0 bg-white text-blue-600 p-2 rounded" style="visibility: hidden;">sddsds</div>
+        <svg id="countriesChart"></svg>
+        <div class="flex text-white flex-row flex-wrap mt-1">
+            <div class="flex">
+                <div class="w-3 h-3 m-2" style="background-color: #264653;"></div>
+                <div class=""> Other </div>
+            </div>
+            <div class="flex">
+                <div class="w-3 h-3 m-2" style="background-color: #2A9D8F;"></div>
+                <div class=""> Unknown </div>
+            </div>
+            <div class="flex">
+                <div class="w-3 h-3 m-2" style="background-color: #E9C46A;"></div>
+                <div class=""> Iraq </div>
+            </div>
+            <div class="flex">
+                <div class="w-3 h-3 m-2" style="background-color: #F4A261;"></div>
+                <div class=""> Somalia </div>
+            </div>
+            <div class="flex">
+                <div class="w-3 h-3 m-2" style="background-color: #4daf4a;"></div>
+                <div class=""> Afghanistan </div>
+            </div>
+            <div class="flex">
+                <div class="w-3 h-3 m-2" style="background-color: #E76F51;"></div>
+                <div class=""> Nigeria </div>
+            </div>
+            <div class="flex">
+                <div class="w-3 h-3 m-2" style="background-color: #e41a1c;"></div>
+                <div class=""> Pakistan </div>
+            </div>
+            <div class="flex">
+                <div class="w-3 h-3 m-2" style="background-color: #377eb8;"></div>
+                <div class=""> Syrian Arab Rep. </div>
+            </div>
+            <div class="flex">
+                <div class="w-3 h-3 m-2" style="background-color: #B5E2FA;"></div>
+                <div class=""> Eritrea</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div>
+
+    </div>
+
+    <div id="mapHolder" class="h-full w-4/5 absolute right-0 z-0">
+        <svg id="main"></svg>
+    </div>
+
+    <div id="deathsHolder" class="h-24 w-3/5 ml-64 bottom-16 fixed">
+        <div class="p-3 flex ">
+            <svg xmlns="http://www.w3.org/2000/svg" class="inline icon icon-tabler icon-tabler-cross" width="20"
+                height="20" viewBox="0 0 24 24" stroke-width="1.5" stroke="#000000" fill="none" stroke-linecap="round"
+                stroke-linejoin="round">
+                <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                <path stroke="white" d="M10 21h4v-9h5v-4h-5v-5h-4v5h-5v4h5z" />
+            </svg> = <span id="deathCountSize"></span>
+
+            <div class="inline ml-8"> Total <span id="deathcounter" class="font-bold">0<span> </span>
+            </div>
+            </div>
+
+
+
+        <svg id="deathsChart"></svg>
+    </div>
+        <div class="fixed  w-64 h-8 bottom-2 right-2 bg-white flex items-center rounded-lg">
+            <img class="h-6 ml-2" src="https://static.thenounproject.com/png/496854-200.png" />
+            <p class="text-black text-xs ml-2"> Use your mouse-wheel to navigate</p>
+        </div>
+
+
+
+
+    <script>
+
+        window.addEventListener('wheel', this.handleScroll, false);
+
+        var currentDate = moment("2009");
+
+       var monthdescription = {
+    "201508": [
+        "On August 28, Austrian authorities",
+        "found the bodies of 71 migrants in",
+        "a cooling truck abandoned near the",
+        "Austrian border with Hungary."
+    ],
+    "201612": [
+        "This year alone, over 5.2 million",
+        "refugees and migrants reached",
+        "European shores."
+    ],
+    "201809": [
+        "In 2018, more than 138,000 people ",
+        "risked their lives trying to reach",
+        "Europe by sea; more than 2,000 of ",
+        "them drowned."
+    ],
+    "201909": [
+        "In 2019 alone, there have already ",
+        "been 27,301 sea arrivals in Italy,",
+        "Greece, Spain, Cyprus and Malta."
+    ],
+    "201911": [
+        "40% of refugee arriving by sea ",
+        "this year are women and children."
+    ],
+    "202002": [
+        "Increase of disorder in the West",
+        "and Central Africa region in 2020,",
+        "great increases in sea departures ",
+        "from Libya, Tunisia and Algeria."
+    ],
+    "202008": [
+        "23,023 migrant arrivals on the ",
+        "Canary Islands in 2020."
+    ],
+    "202011": [
+        "55,000 refugees from Ethiopia",
+        "fled to Sudan in Nov and Dec 2020",
+        "due to clashes in Tigray region."
+    ],
+    "202104": [
+        "Iternational military forces leave",
+        "Afghanistan, Taliban takes control ",
+        "of the country."
+    ]
+}
+
+        // YEAR SLIDER ******** 
+        var yearSliderParent = document.getElementById("yearSliderHolder");
+
+        // Select the svg area
+        var svg = d3.select("#yearSlider");
+
+        // General settings
+        const barX = 20;
+        const barW = 2;
+        const barHeight = yearSliderParent.clientHeight;
+        const textSize = 20;
+
+        const textOffset = 25;
+
+
+        // Year on timeline settings 
+        const circleR = 6;
+
+        //Setup draw area
+        svg
+            .attr("width", yearSliderParent.clientWidth)
+            .attr("height", yearSliderParent.clientHeight)
+
+        // line
+        var line = svg.append('rect')
+            .attr('x', barX)
+            .attr('y', 0)
+            .attr('width', barW)
+            .attr('height', barHeight)
+            .attr('fill', 'white');
+
+        var startDate = moment(currentDate);
+
+        // We render inital 12 months
+        for (var i = 1; i <= 13; i++) {
+            var year_circle = svg.append("circle")
+                .style("stroke", "gray")
+                .style("fill", "white")
+                .attr("r", circleR)
+                .attr("cx", barX + (barW / 2))
+                .attr("cy", (barHeight / 13) * i - textOffset - 5);
+
+            let text = startDate.format('MMMM YYYY');
+            if (startDate.month() != 0) {
+                text = startDate.format('MMMM')
+            }
+
+            var year_text = svg.append("text")
+                .attr("id", "d" + startDate.format('YYYYMM'))
+                .attr("x", barX + barW + circleR + 10)
+                .attr("y", (barHeight / 13) * i - textOffset)
+                .attr("font-size", textSize)
+                .attr("fill", "white")
+                .text(text);
+
+            if (startDate.diff(currentDate, 'months') == 0) {
+                year_text.attr("style", "font-weight:bold;text-decoration:underline").attr("font-size", "25")
+            }
+
+
+                
+                
+                if (monthdescription[parseInt(startDate.format('YYYYMM'))]) {
+                    var test = svg.append("text")
+                    .attr("id", "dt" + startDate.format('YYYYMM'))
+                    .attr("x", barX + barW + circleR + 10)
+                    .attr("y", (barHeight / 13) * i - textOffset + 20)
+                    .attr("font-size", 8)
+                    .text(monthdescription[startDate.format('YYYYMM')][0])
+                }
+                startDate.add(1,"month")
+        }
+
+
+
+        // Render crosses ***********************
+
+        var deaths = {
+            "2013": {
+                "dead": 636,
+                "missing": 0,
+                "total": 636
+            },
+            "2014": {
+                "dead": 770,
+                "missing": 2768,
+                "total": 3538
+            },
+            "2015": {
+                "dead": 1555,
+                "missing": 2216,
+                "total": 3771
+            },
+            "2016": {
+                "dead": 1485,
+                "missing": 3611,
+                "total": 5096
+            },
+            "2017": {
+                "dead": 795,
+                "missing": 2344,
+                "total": 3139
+            },
+            "2018": {
+                "dead": 670,
+                "missing": 1600,
+                "total": 2270
+            },
+            "2019": {
+                "dead": 272,
+                "missing": 1063,
+                "total": 1335
+            },
+            "2020": {
+                "dead": 562,
+                "missing": 839,
+                "total": 1401
+            },
+            "2021": {
+                "dead": 708,
+                "missing": 937,
+                "total": 1645
+            }
+        }
+
+        var deathsHolder = document.getElementById("deathsHolder");
+
+
+        /*
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-cross" width="64" height="64" viewBox="0 0 24 24" stroke-width="1.5" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+          <path d="M10 21h4v-9h5v-4h-5v-5h-4v5h-5v4h5z" />
+        </svg>
+        */
+
+        const deathChartsvg = d3.select("#deathsChart")
+            .attr("width", deathsHolder.clientWidth)
+            .attr("height", deathsHolder.clientHeight)
+
+
+        var xdeaths = 10;
+        var ydeaths = 10;
+
+        var deathSize = 300;
+
+        document.getElementById('deathCountSize').innerHTML = deathSize.toString() + " people dead or missing on sea ";
+        var total = 0; 
+
+        for (var year in deaths) {
+
+            for (i = 0; i <= deaths[year].total; i += deathSize) {
+                d3.select("#deathsChart")
+                    .append('path')
+                    .attr('d', "M10 21h4v-9h5v-4h-5v-5h-4v5h-5v4h5z")
+                    .attr('class', 'death_' + year)
+                    .attr('value', i)
+                    .attr("stroke", d => { return (parseInt(startDate.year) <= parseInt(year)) ? 'white' : 'transparent' })
+                    .attr("fill", d => { return (parseInt(startDate.year) <= parseInt(year)) ? 'transparant' : 'transparent' })
+                    .attr("transform", "translate(" + xdeaths + "," + ydeaths + ")")
+
+
+                xdeaths += 20;
+                if (xdeaths > deathsHolder.clientWidth / 2) {
+                    xdeaths = 10
+                    ydeaths += 25
+                }
+            }
+        }
+        // Render bar chart *********************
+
+        var countriesChartParent = document.getElementById("countriesChartHolder");
+
+
+        // append the svg object to the body of the page
+        const countriesChartsvg = d3.select("#countriesChart")
+            .attr("width", countriesChartParent.clientWidth)
+            .attr("height", countriesChartParent.clientHeight)
+            .append("g")
+            .attr("transform", `translate(80,10)`);
+
+        // Parse the Data
+        // Add Y axis
+        const y = d3.scaleLinear()
+            .domain([0, 1200000])
+            .range([countriesChartParent.clientHeight - 50, 0]);
+        countriesChartsvg.append("g")
+            .attr("color", "white")
+            .call(d3.axisLeft(y));
+
+        d3.json("https://raw.githubusercontent.com/quintene/data_vis_data/main/country_info.json").then(countriesData => {
+
+
+            // List of subgroups = header of the csv files = soil condition here
+            //const subgroups = data.columns.slice(1)
+
+            // Add X axis
+            const x = d3.scaleBand()
+                .domain(Object.keys(countriesData))
+                .range([0, countriesChartParent.clientWidth - 100])
+                .padding([0.2])
+
+            countriesChartsvg
+                .append("g")
+                .attr("color", "white")
+                .attr("transform", `translate(0, ${countriesChartParent.clientHeight - 50})`)
+                .call(d3.axisBottom(x).tickSizeOuter(0));
+
+
+                  // text label for the x axis
+                  countriesChartsvg.append("text")             
+                    .attr("transform",
+                            "translate(" + ( countriesChartParent.clientWidth/2) + " ," + 
+                                        (countriesChartParent.clientHeight  - 13 ) + ")")
+                    .style("text-anchor", "middle")
+                    .attr("fill", "white")
+                    .text("Year");
+
+
+
+                    // text label for the y axis
+                    countriesChartsvg.append("text")
+                        .attr("transform", "rotate(-90)")
+                        .attr("y", 0 - 80)
+                        .attr("x", 0- (countriesChartParent.clientHeight / 2))
+                        .attr("dy", "1em")
+                        .style("text-anchor", "middle")
+                        .attr("fill", "white")
+                        .text("Migrants per year/country");  
+
+
+            var color = d3.scaleOrdinal()
+                .domain(Object.keys(countriesData["2009"]))
+                .range(['#264653', '#2A9D8F', '#E9C46A', '#F4A261', '#E76F51', '#4daf4a', '#e41a1c', '#377eb8', '#B5E2FA'])
+
+                
+
+            var arr = [];
+
+            for (var year in countriesData) {
+
+                // only add allowed years meaning < selectedCurrent
+
+                var temp = countriesData[year];
+                temp['year'] = year;
+                arr.push(temp);
+
+            }
+
+            //stack the data? --> stack per subgroup
+            const stack = d3.stack()
+                .keys(Object.keys(countriesData["2009"]))
+                (arr)
+            //.value((obj, key) => {console.log(obj); console.log(key); return obj[key] });
+            var tooltip = d3.select("#countriestooltip")
+            // Show the bars
+            countriesChartsvg.append("g")
+                .selectAll("g")
+                // Enter in the stack data = loop key per key = group per group
+                .data(stack)
+                .join("g")
+                .attr("fill", function (d) { return color(d.key) })
+                .selectAll("rect")
+                // enter a second time = loop subgroup per subgroup to add all rectangles
+                .data(d => d)
+                .join("rect")
+
+                .attr("class", d => { return "year" + d.data.year })
+                .attr("x", d => { return x(d.data.year) })
+                .attr("y", d => y(d[1]))
+                .attr("amount",d=> {return (d[1] - d[0])})
+                .attr("height", d => { return (parseInt(currentDate.year()) >= parseInt(d.data.year)) ? (y(d[0]) - y(d[1])) : 0 })
+                .attr("width", x.bandwidth())
+                .on("mouseover", function(d){  tooltip.style("visibility", "visible"); tooltip.text(numberWithCommas(d3.select(this).attr('amount'))); return })
+                .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
+        });
+
+
+
+
+
+        function updateDeathsperYear(monthChange) {
+            var tempDate = moment(currentDate);
+
+            var deathcounter = document.getElementById("deathcounter");
+
+            if (monthChange < 0) {
+                for (var i = 1; i <= monthChange * -1; i++) {
+                    tempDate.add(1, 'month')
+
+                    var elems = d3.selectAll(".death_" + tempDate.format("YYYY"));
+                    elems.transition().attr("stroke", "transparent")
+                }
+            }
+
+            for (var i = 0; i <= monthChange; i++) {
+                tempDate.subtract(1, 'month')
+                var elems = d3.selectAll(".death_" + tempDate.format("YYYY"));
+                elems.transition().attr("stroke", "white")
+            }
+
+            var counter = 0; 
+
+            for (var year in deaths) {
+                
+
+                console.log(year + " vs" +currentDate.format("YYYY") )
+                if (parseInt(year) <= parseInt(currentDate.format("YYYY"))) {
+
+                    counter += deaths[year].total;
+                }
+
+                deathcounter.innerHTML = counter
+            }
+        }
+
+        function numberWithCommas(x) {
+            return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+        }
+
+
+
+        function updateCountriesPerYear(monthChange) {
+            var tempDate = moment(currentDate);
+            if (monthChange < 0) {
+                for (var i = 1; i <= monthChange * -1; i++) {
+                    tempDate.subtract(1, 'month')
+                    // only add allowed years meaning < selectedCurrent
+                    var elems = d3.selectAll(".year" + tempDate.format("YYYY"));
+
+                    elems.transition().attr("height", 0)
+                }
+
+            }
+
+            for (var i = 1; i <= monthChange; i++) {
+                tempDate.subtract(1, 'month')
+
+                // only add allowed years meaning < selectedCurrent
+                var elems = d3.selectAll(".year" + tempDate.format("YYYY"));
+
+                elems.transition().attr("height", d => { return y(d[0]) - y(d[1]) })
+            }
+        }
+
+        function updateYearSlider(monthChange) {
+
+            var oldDate = moment(currentDate);
+
+            var newDate = moment(currentDate)
+            newDate.add(monthChange, 'months');
+
+            if (parseInt(newDate.format("YYYY")) < 2009) {
+                currentDate = moment("2009")
+                return;
+            }
+
+            if (parseInt(newDate.format("YYYY")) > 2021) {
+                newDate = moment("2021")
+                return;
+            }
+
+            currentDate = moment(newDate)
+
+
+            if (monthChange > 0) {
+                oldDate.add(12, 'months');
+                // going further in time
+                // insert below svg
+                for (var i = 1; i <= monthChange; i++) {
+                    //
+                    oldDate.add(1, 'months');
+
+                    let text = oldDate.format('MMMM YYYY');
+                    if (oldDate.month() != 0) {
+                        text = oldDate.format('MMMM')
+                    }
+                    var year_text = svg.append("text")
+                        .attr("id", "d" + oldDate.format('YYYYMM'))
+                        .attr("x", barX + barW + circleR + 10)
+                        .attr("y", (barHeight + (barHeight / 13) * i) - textOffset)
+                        .attr("font-size", textSize)
+                        .attr("fill", "white")
+                        .attr("class", "activeDate")
+                        .text(text);
+                    
+   
+                    if (monthdescription[parseInt(oldDate.format('YYYYMM'))]) {
+
+                        var difference = 20;
+                        for (var text2 in monthdescription[parseInt(oldDate.format('YYYYMM'))]) {
+
+                            console.log(monthdescription[parseInt(oldDate.format('YYYYMM'))][text2])
+                            svg.append("text")
+                            .attr("class", "dt" + oldDate.format('YYYYMM'))
+                            .attr("x", barX + barW + circleR + 10)
+                            .attr("y", (barHeight + (barHeight / 13) * i) - textOffset + difference)
+                            .attr("font-size", 10)
+                            .attr("fill", "white")
+                            .text(monthdescription[parseInt(oldDate.format('YYYYMM'))][text2])
+
+                            difference += 10
+                        }
+                    }
+
+                }
+                // animate and mobve dates
+
+                var startMovingDate = moment(currentDate);
+                startMovingDate.subtract(monthChange, 'months');
+
+                // Improve by select all?
+                for (var i = 0; i <= monthChange + 12; i++) {
+
+
+                    var elem = d3.select("#d" + startMovingDate.format('YYYYMM'));
+                    elem.attr("y", elem.attr("y") - (barHeight / 13) * monthChange)
+
+                    var elemsub = d3.selectAll(".dt" + startMovingDate.format('YYYYMM'));
+
+                    if (!elemsub.empty()) {
+
+                        elemsub.each(function(d, i) {   
+
+                         d3.select(this).attr("y", d3.select(this).attr("y") - (barHeight / 13) * monthChange);
+
+                        });
+                    }
+
+
+
+                    //.duration(500)
+
+                    if (startMovingDate.diff(currentDate, 'months') == 0) {
+                        elem.attr("style", "font-weight:bold; text-decoration: underline;")
+                            .attr("font-size", 25)
+                    } else {
+                        elem.attr("style", "")
+                    }
+
+
+                    startMovingDate.add(1, 'months');
+
+
+
+                }
+
+                var outrangeDate = moment(currentDate);
+                //outrangeDate.subtract(12, 'months');
+
+                // remove old below svg
+                for (var i = 0; i < monthChange; i++) {
+                    outrangeDate.subtract(1, 'months');
+                    d3.select("#d" + outrangeDate.format('YYYYMM')).remove();
+                    d3.selectAll(".dt" + outrangeDate.format('YYYYMM')).remove();
+                }
+            }
+
+            if (monthChange < 0) {
+
+                // going further in time
+                // insert below svg
+                for (var i = 0; i < monthChange * -1; i++) {
+                    oldDate.subtract(1, 'months');
+
+                    let text = oldDate.format('MMMM YYYY');
+                    if (oldDate.month() != 0) {
+                        text = oldDate.format('MMMM')
+                    }
+                    var year_text = svg.append("text")
+                        .attr("id", "d" + oldDate.format('YYYYMM'))
+                        .attr("x", barX + barW + circleR + 10)
+                        .attr("y", (-1 * (barHeight / 13) * i) - textOffset)
+                        .attr("font-size", textSize)
+                        .attr("fill", "white")
+                        .attr("class", "activeDate")
+                        .text(text);
+
+                        if (monthdescription[parseInt(oldDate.format('YYYYMM'))]) {
+
+                    var difference = 20;
+                    for (var text2 in monthdescription[parseInt(oldDate.format('YYYYMM'))]) {
+
+
+                        svg.append("text")
+                        .attr("class", "dt" + oldDate.format('YYYYMM'))
+                        .attr("x", barX + barW + circleR + 10)
+                        .attr("y",(-1 * (barHeight / 13) * i) - textOffset + difference)
+                        .attr("font-size", 10)
+                        .attr("fill", "white")
+                        .text(monthdescription[parseInt(oldDate.format('YYYYMM'))][text2])
+
+                        difference += 10
+                    }
+                    }                        
+                }
+                // animate and mobve dates
+
+                var startMovingDate = moment(currentDate);
+                //startMovingDate.add(monthChange,"month");
+
+                // Improve by select all?
+                for (var i = 0; i <= monthChange * -1 + 12; i++) {
+                    var elem = d3.select("#d" + startMovingDate.format('YYYYMM'));
+                    elem
+                        .attr("y", elem.attr("y") - (barHeight / 13) * monthChange)
+
+                        var elemsub = d3.selectAll(".dt" + startMovingDate.format('YYYYMM'));
+
+                        if (!elemsub.empty()) {
+
+                            elemsub.each(function(d, i) {   
+
+                                d3.select(this).attr("y", d3.select(this).attr("y") - (barHeight / 13) * monthChange)
+
+                            });
+                        }                        
+
+                    if (startMovingDate.diff(currentDate, 'months') == 0) {
+                        elem.attr("style", "font-weight:bold; text-decoration: underline;")
+                            .attr("font-size", 25)
+                    } else {
+                        elem.attr("style", "")
+                    }
+                    startMovingDate.add(1, 'month');
+                }
+
+                var outrangeDate = moment(currentDate);
+                outrangeDate.add(12, 'months');
+
+                // remove old below svg
+                //wait 200 sec 
+                for (var i = 0; i < monthChange * -1; i++) {
+                    outrangeDate.add(1, 'months');
+                    d3.select("#d" + outrangeDate.format('YYYYMM')).remove();
+                    d3.selectAll(".dt" + outrangeDate.format('YYYYMM')).remove();
+                }
+
+            }
+        }
+
+
+        function handleScroll(event) {
+
+            // Scrolling 
+            // Down: + 
+            // Up: - 
+            var increasedMonth = Math.round(event.deltaY / 80);
+
+            //update Year slider 
+            if (increasedMonth != 0) {
+                updateYearSlider(increasedMonth);
+                updateCountriesPerYear(increasedMonth);
+                updateDeathsperYear(increasedMonth)
+            }
+        }
+
+
+        /******** RENDER MAP ****/
+
+
+
+        var yearSliderParent = document.getElementById("mapHolder");
+        let svg1 = d3.select("#main")
+            .attr("width", yearSliderParent.clientWidth)
+            .attr("height", yearSliderParent.clientHeight)
+
+        // create arrow structure for animation
+        svg1.append("defs")
+            .append("symbol")
+            .attr("id", "arrowheadsymbol")
+            .attr("viewbox", "0 0 50 50")
+            .attr("refX", "10")
+            .attr("refY", "10")
+            .attr("preserveAspectRatio", "xMidYMid")
+            .attr("x", "0")
+            .attr("y", "-15")
+            .append("polygon")
+            .attr("id", "arrowhead")
+            .attr("points", "26.931778482055666,28.636364053344725,26.21442466125488,26.771244119262697,25.500843814468382,24.9159339176178,24.782207667256145,23.047479934865983,24.061303682053833,21.17312957333997,23.34455855506137,19.30959224315956,22.62740454951897,17.444991828749327,21.90430327401161,15.564928512430193,21.189000504916905,13.705141312783958,20.47329866409898,11.844316526657344,19.75243309362456,9.970066043423865,19.036022702591865,8.107399026738854,18.318803825775532,6.242629947016391,17.597472342556713,4.367168090647461,16.874254805655532,2.5130480381347002,15.198738974807595,2.401101991770423,14.440855213546753,4.267516444778444,13.728131835454699,6.120597227817775,13.00651866673827,7.996791466480495,12.287484588672964,9.86628006945029,11.568885275268553,11.73463828430176,10.854482629442213,13.592085163450243,10.139639859193561,15.450676366096737,9.416185915110258,17.331656620713325,8.697841679317502,19.19935163377449,7.985696175241469,21.05092994437218,7.267129425530879,22.91920349361971,6.54731505980119,24.790720844516905,5.826233063930271,26.66553403378129,5.11098427429199,28.525180886840822,5.946135565003884,29.999596461985377,7.641879963874816,29.018590027093886,9.23092347867787,27.826807390991597,10.832524105906487,26.625606920570135,12.432859752699732,25.4253551854752,14.029451969265939,24.227911023050545,15.631508859992028,23.026368355005978,17.228885841369628,23.671664381027224,18.833057295158504,24.874792971368876,20.438498999550937,26.0788742496632,22.032934859395027,27.27470114454627,23.63193190097809,28.473948925733566,25.236845397949217,29.677634048461915,26.909722364423107,29.417194900701688")
+            // rotate arrowheads 90 degrees clockwise, so that the tip points in the direction of the trajectory
+            .attr("transform", "rotate(90, 15, 15)")
+
+        // A projection tells D3 how to orient the GeoJSON features
+        let europeProjection = d3.geoMercator()
+            .center([13, 52])
+            .scale([yearSliderParent.clientWidth / 3.5])
+            .translate([yearSliderParent.clientWidth / 1.5, yearSliderParent.clientHeight / 2])
+
+        // The path generator uses the projection to convert the GeoJSON
+        // geometry to a set of coordinates that D3 can understand
+        let pathGenerator = d3.geoPath().projection(europeProjection)
+
+        // data paths
+        let geoJsonUrl_worldmap = "https://raw.githubusercontent.com/quintene/data_vis_data/main/map_geo_data.json"
+        let geoJsonUrl_migrantroutes = "https://raw.githubusercontent.com/quintene/data_vis_data/main/migration_routes.geojson"
+        let path_IBCs_data = "https://raw.githubusercontent.com/quintene/data_vis_data/main/monthly_detections_of_IBCs.json"
+        let path_route_mapping = "https://raw.githubusercontent.com/quintene/data_vis_data/main/route_mapping.json"
+
+
+        // variables for animation
+        var start;
+        let data_IBCs;
+        const trajectories = [],
+            arrowgroups = [],
+            totalLengths = [],
+            groups = [],
+            scalingfactors = {}
+
+
+        var oldDate = moment(currentDate);
+        var in_animation = false;
+        var in_animation_index = {};
+
+        // Load world map
+        d3.json(geoJsonUrl_worldmap).then(geojson => {
+            // Tell D3 to render a path for each GeoJSON feature
+            svg1.selectAll("path")
+                .data(geojson.features)
+                .enter()
+                .append("path")
+                .attr("xlink:href", "#border")
+                .attr("class", "country")
+                .attr("d", pathGenerator) // This is where the magic happens
+                .attr("stroke", "white") // Color of the lines themselves
+                .attr("fill", "black") // Color uses to fill in the lines
+                .attr("id", function (d) { return d.properties.name; })
+                .append("svg:title").text(function (d) { return d.properties.name; })
+
+            // Load migrant routes and initialize all trajectories
+            d3.json(geoJsonUrl_migrantroutes).then(geojson => {
+
+
+                // Tell D3 to render a path for each GeoJSON feature
+                svg1.selectAll("#main")
+                    .data(geojson.features)
+                    .enter()
+                    .append("path")
+                    .attr("href", "#migratoryroute")
+                    .attr("class", "migratoryroute")
+                    .attr("d", pathGenerator)
+                    .attr("route_name", function (d) { return d.properties.route_name; })
+                    .attr("route_index", function (d) { return d.properties.route_index; })
+                    .attr("id", function (d) { return d.properties.route_name + "_" + d.properties.route_index; })
+
+                // create all trajectories
+                createTrajectory("Black_Sea", "0")
+                createTrajectory("Central_African_Routes", "0") 
+                // createTrajectory("Central_African_Routes", "1") DOESN'T EXIST ANYMORE
+                createTrajectory("Central_African_Routes", "2")
+                // createTrajectory("Central_African_Routes", "3") DOESN'T EXIST ANYMORE
+                createTrajectory("Central_African_Routes", "4")
+                createTrajectory("Central_African_Routes", "5")
+                createTrajectory("Central_African_Routes", "6")
+                createTrajectory("Central_African_Routes", "7")
+                createTrajectory("Central_African_Routes", "8")
+                createTrajectory("Central_African_Routes", "9")
+                createTrajectory("Central_African_Routes", "10")
+                // createTrajectory("Central_African_Routes", "11") DOESN'T EXIST ANYMORE
+                createTrajectory("Syria_Africa", "0")
+                createTrajectory("West_African", "0")
+                createTrajectory("West_African", "1")
+                createTrajectory("Syria_Africa", "1")
+                createTrajectory("Spain", "0")
+                createTrajectory("Spain", "1")
+                createTrajectory("Tuni_Medi", "0")
+                createTrajectory("ME_Africa", "0")
+                createTrajectory("East_Africa", "0")
+                // createTrajectory("East_Africa", "1") DOESN't EXIST ANYMORE
+                createTrajectory("Turkey", "0")
+                createTrajectory("Turkey", "1")
+                createTrajectory("Egypt_Medi", "0")
+                createTrajectory("Egypt_Medi", "1")
+                createTrajectory("East_Asia", "0")
+                createTrajectory("East_Asia", "1")
+                createTrajectory("Russia", "0")
+                createTrajectory("Easter_Europe", "0")
+                createTrajectory("Norway", "0")
+                createTrajectory("Norway", "1")
+                createTrajectory("Greece_Italy", "0")
+                createTrajectory("Libya_Medi", "0")
+                createTrajectory("Turkey_Medi", "0")
+                createTrajectory("Italy", "0")
+
+
+                // read IBC (Illegal Border Crossing) and route_mapping sdata
+                readTextFile(path_IBCs_data, function (text) {
+                    data_IBCs = JSON.parse(text)
+                    console.log(path_IBCs_data + ": completed JSON parsing...")
+                    readTextFile(path_route_mapping, function (text) {
+                        data_route_mapping = JSON.parse(text)
+                        console.log((path_route_mapping + ": completed JSON parsing..."))
+                        // START ANIMATION
+                        requestAnimationFrame(update);
+                    })
+                })
+            })
+        })
+
+
+
+        // function that creates <use> elements for arrows
+        function addArrows(data, ref) {
+            return d3.select("#main").append("g").attr("class", "arrowelement").selectAll("use")
+                .data(data).enter()
+                .append("use")
+                .attr("href", "#arrowheadsymbol")
+                .attr("route_name", ref)
+                .attr("class", ref)
+        }
+
+        // function that builds trajectories and related variables
+        function createTrajectory(route_name, route_index) {
+            // routes with index -> route_id = route_name + "_" + route_index
+            route_id = "#" + route_name + "_" + route_index
+            trajectories.push(document.querySelector(route_id))
+            totalLengths.push(trajectories.last().getTotalLength())
+            groups.push(totalLengths.last() / 3)
+
+            arrowgroups.push(addArrows(d3.range(3).map(function (d) { return d * groups.last() + 50; }), route_name))
+        }
+
+        let maxscaling = 0.5
+        let extrascaling = 0.5
+
+        function update_route(arrowheads_x, trajectory_x, group_x, totalLength_x, start, t, scalingfactor, index) {
+            var offset = -group_x * ((t - start) % 900) / 900;
+
+            if (in_animation_index[index] == true) {
+                return
+            }
+
+            if (currentDate.format("YYYY") != oldDate.format("YYYY")) {
+                in_animation_index[index] = true;
+                arrowheads_x
+                    .transition()
+                    .duration(500)
+                    .attr("transform", function (d) {
+                        var l = d - offset;
+
+                        if (l < 0) {
+                            l = totalLength_x + l;
+                        } else if (l > totalLength_x) {
+                            l -= totalLength_x;
+                        }
+
+                        var p = pointAtLength(l, trajectory_x, scalingfactor);
+                        return "translate(" + p + ") rotate( " + angleAtLength(l, trajectory_x, scalingfactor) + ") scale(" + scalingfactor * (1 - extrascaling * scalingfactor + maxscaling) + ")";
+                    })
+                    .on("end", () => {
+                        in_animation_index[index] = false
+
+                        in_animation = false;
+
+                        var change_date = true;
+                        for (i in in_animation_index) {
+                            if (in_animation_index == true) {
+                                change_date = false;
+                            }
+                        }
+
+                        if (change_date) {
+                            oldDate = moment(currentDate);
+                        }
+
+                    });
+
+
+
+
+            } else {
+
+
+
+                arrowheads_x
+                    .attr("transform", function (d) {
+
+                        var l = d - offset;
+
+                        if (l < 0) {
+                            l = totalLength_x + l;
+                        } else if (l > totalLength_x) {
+                            l -= totalLength_x;
+                        }
+
+                        var p = pointAtLength(l, trajectory_x, scalingfactor);
+                        return "translate(" + p + ") rotate( " + angleAtLength(l, trajectory_x, scalingfactor) + ") scale(" + scalingfactor * (1 - extrascaling * scalingfactor + maxscaling) + ")";
+                    });
+            }
+        }
+
+        function resetAnimation(index) {
+            in_animation_index[index] = false
+
+            in_animation = false;
+
+            var change_date = true;
+            for (i in in_animation_index) {
+                if (in_animation_index == true) {
+                    change_date = false;
+                }
+            }
+
+            if (change_date) {
+                oldDate = moment(currentDate);
+            }
+
+        }
+
+        function readTextFile(file, callback) {
+            var rawFile = new XMLHttpRequest();
+            rawFile.overrideMimeType("application/json");
+            rawFile.open("GET", file, true);
+            rawFile.onreadystatechange = function () {
+                if (rawFile.readyState === 4 && rawFile.status == "200") {
+                    callback(rawFile.responseText);
+                }
+            }
+            rawFile.send(null);
+            // //usage:
+            // readTextFile("/Users/Documents/workspace/test.json", function (text) {
+            //     var data = JSON.parse(text);
+            //     console.log(data);
+            // });
+        }
+
+
+        function fetch_scalingfactor(year, trajectory_x) {
+            // calculate the scale size of the arrows, corresponding to the amount of IBCs (illegal border crossings) 
+            // for a given route and a given year for all origin countries combined. Saves the scalingfactor for later saving.
+            if (Object.keys(scalingfactors).includes(year)) {
+                if (Object.keys(scalingfactors[year]).includes(trajectory_x.getAttribute("id"))) {
+                    return scalingfactors[year][trajectory_x.getAttribute("id")]
+                }
+            } else {
+                scalingfactors[year] = {}
+            }
+
+            var sum_IBCs = 0
+            var scalingfactor;
+            // Using the following formula to dampen the variation in scaling factors m = ( ( n - 1 ) / d ) + 1 
+            var dampingfactor = 1.1;
+            data_IBCs.Detections_of_IBC.forEach(element => {
+                if (!Object.keys(data_route_mapping).includes(element.Route)) {
+                    return;
+                }
+                if (Object.keys(data_route_mapping[element.Route]).includes(trajectory_x.getAttribute("route_name"))) {
+                    // Factor to correct for trajectories that contribute less to actual migration Route (e.g. Turkey_Medi to Central Mediterrenean Route) 
+                    correctionfactor = data_route_mapping[element.Route][trajectory_x.getAttribute("route_name")]
+                    sum_IBCs += sum_monthly_IBCs(element, year) * correctionfactor
+                }
+            })
+            console.log("sum_IBCs route " + trajectory_x.getAttribute("route_name") + " = " + sum_IBCs);
+            if (sum_IBCs == 0) {
+                return scalingfactors[year][trajectory_x.getAttribute("id")] = 0
+            } else {
+                // return scalingfactors[year][trajectory_x.getAttribute("id")] = Math.log(sum_IBCs)/Math.log(2) / dampingfactor
+                // return scalingfactors[year][trajectory_x.getAttribute("id")] = ((sum_IBCs / 1500000 - 3) / dampingfactor) + 3
+                scalefactor = 200000
+                return scalingfactors[year][trajectory_x.getAttribute("id")] = ((sum_IBCs / scalefactor > 1.75) ? 1.75 : ((sum_IBCs / scalefactor < 0.1) ? 0.1 : sum_IBCs / scalefactor))
+            }
+        }
+
+        function sum_monthly_IBCs(country_IBCs, year) {
+            // Calculate combined yearly IBCs for a single country. 
+            var sum_IBCs_country = 0;
+            Object.keys(country_IBCs).forEach(element => {
+                if (element.includes(year)) {
+                    sum_IBCs_country += parseInt(country_IBCs[element])
+                }
+            })
+            return sum_IBCs_country;
+        }
+
+        function update(t) {
+            if (!start) {
+                start = t;
+            }
+            // update_route function to update trajectories
+            trajectories.forEach(updatefunction);
+            function updatefunction(value, index, array) {
+                scalingfactor = fetch_scalingfactor(currentDate.format("YYYY"), trajectories[index])
+                update_route(arrowgroups[index], trajectories[index], groups[index], totalLengths[index], start, t, scalingfactor, index)
+            }
+
+
+            requestAnimationFrame(update);
+        }
+
+        function pointAtLength(l, trajectory_x, scalingfactor) {
+
+            var xy = trajectory_x.getPointAtLength(l);
+            return [xy.x - scalingfactor * 0, xy.y - scalingfactor * 0];
+
+        }
+
+        // Approximate tangent
+        function angleAtLength(l, trajectory_x, scalingfactor) {
+
+            var a = pointAtLength(Math.max(l - 0.01, 0), trajectory_x, scalingfactor), // this could be slightly negative
+                b = pointAtLength(l + 0.01, trajectory_x, scalingfactor); // browsers cap at total length
+
+            return Math.atan2(b[1] - a[1], b[0] - a[0]) * 180 / Math.PI;
+
+        }
+        // last() function
+        if (!Array.prototype.last) {
+            Array.prototype.last = function () {
+                return this[this.length - 1];
+            };
+        };
+
+
+
+
+    </script>
+
+</body>
+
+</html>
