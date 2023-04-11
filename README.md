@@ -18,7 +18,7 @@ An explanation of the European Refugee Crisis is provided at the top center of t
 
 ## Technical Implementation
 
-The website was built using HTML, CSS, and JavaScript to create an interactive and responsive user interface. We utilized the D3.js library, a popular choice for data-driven documents, to create the visualizations and manage the underlying data. The data was provided in JSON format, which allowed for efficient data processing and manipulation. This technical approach showcases our data science skills, as well as our ability to create visually engaging and informative web-based projects.
+The website was built using HTML, CSS, and JavaScript, creating an interactive and responsive user interface. We used D3.js, a library for generating data-driven documents and visualizations, to manage the underlying data and create the visual components. The map data was provided in GeoJSON. The use of D3.js enabled us to create visually engaging, dynamic visualizations.
 
 ## Data Sources
 
