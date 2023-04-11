@@ -39,6 +39,6 @@ The following sources have been instrumental in providing data and inspiration f
 
 ## Additional Information
 
-For more details on the process and methodology used to create this visualization, please refer to the included [PDF file](docs/project-paper.pdf), which provides an overview of the problem analysis, justification for the chosen graphs, evaluation, and discussion of potential improvements.
+For more details on the process and methodology used to create this visualization, please refer to the included [project paper](docs/project-paper.pdf), which provides an overview of the problem analysis, justification for the chosen graphs, evaluation, and discussion of potential improvements.
 
 We hope this visualization provides a more engaging and human-centric perspective on the European Refugee Crisis, and we welcome any feedback or suggestions for further development.
