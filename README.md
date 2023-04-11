@@ -16,6 +16,9 @@ The website consists of a single page, with a timeline on the left side allowing
 
 An explanation of the European Refugee Crisis is provided at the top center of the page.
 
+![final_project](img/final_project.png)
+
+
 ## Technical Implementation
 
 The website was built using HTML, CSS, and JavaScript, creating an interactive and responsive user interface. We used D3.js, a library for generating data-driven documents and visualizations, to manage the underlying data and create the visual components. The map data was provided in GeoJSON. The use of D3.js enabled us to create visually engaging, dynamic visualizations.
